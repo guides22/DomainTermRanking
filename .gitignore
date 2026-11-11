@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+# Large corpora excluded from this public portfolio repository
+ml_en.txt
+ml_en_junior.txt
+oral_surgery_en.txt
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

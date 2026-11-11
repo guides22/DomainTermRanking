@@ -1,0 +1,521 @@
+doc_id,title,method,backend,rank,keyphrase,score
+0,,SIFRank,BERT,1,live coding techniques,0.721465
+0,,SIFRank,BERT,2,algoraves,0.562766
+0,,SIFRank,BERT,3,people,0.509374
+0,,SIFRank,BERT,4,algorithms,0.489038
+0,,SIFRank,BERT,5,rave,0.478542
+0,,SIFRank,BERT,6,australia,0.476883
+0,,SIFRank,BERT,7,asia,0.469192
+0,,SIFRank,BERT,8,europe,0.407796
+0,,SIFRank,BERT,9,music,0.381812
+0,,SIFRank,BERT,10,north america,0.376496
+0,,SIFRank+,BERT,1,rave,0.034182
+0,,SIFRank+,BERT,2,people,0.025469
+0,,SIFRank+,BERT,3,live coding techniques,0.024049
+0,,SIFRank+,BERT,4,algorithms,0.018809
+0,,SIFRank+,BERT,5,music,0.016601
+0,,SIFRank+,BERT,6,algoraves,0.011974
+0,,SIFRank+,BERT,7,asia,0.008531
+0,,SIFRank+,BERT,8,australia,0.007818
+0,,SIFRank+,BERT,9,europe,0.007694
+0,,SIFRank+,BERT,10,north america,0.005976
+1,,SIFRank,BERT,1,electronic musicians,0.674843
+1,,SIFRank,BERT,2,visual artists,0.652421
+1,,SIFRank,BERT,3,algorave,0.571977
+1,,SIFRank+,BERT,1,algorave,0.190659
+1,,SIFRank+,BERT,2,electronic musicians,0.042178
+1,,SIFRank+,BERT,3,visual artists,0.034338
+2,,SIFRank,BERT,1,work,0.471944
+2,,SIFRank+,BERT,1,work,0.026219
+3,,SIFRank,BERT,1,synchronous procedure calls,0.806705
+3,,SIFRank,BERT,2,procedure calls,0.701936
+3,,SIFRank,BERT,3,prior calls,0.690411
+3,,SIFRank,BERT,4,one thread,0.613184
+3,,SIFRank,BERT,5,apcs,0.4329
+3,,SIFRank+,BERT,1,procedure calls,0.233979
+3,,SIFRank+,BERT,2,synchronous procedure calls,0.073337
+3,,SIFRank+,BERT,3,one thread,0.03607
+3,,SIFRank+,BERT,4,prior calls,0.015342
+3,,SIFRank+,BERT,5,apcs,0.011392
+4,,SIFRank,BERT,1,memory,0.583505
+4,,SIFRank,BERT,2,potentially other resources,0.581537
+4,,SIFRank,BERT,3,example,0.365411
+4,,SIFRank+,BERT,1,example,0.091353
+4,,SIFRank+,BERT,2,memory,0.014588
+4,,SIFRank+,BERT,3,potentially other resources,0.013846
+5,,SIFRank,BERT,1,memory,0.528673
+5,,SIFRank,BERT,2,"(e.g., user input",0.499698
+5,,SIFRank+,BERT,1,memory,0.033042
+5,,SIFRank+,BERT,2,"(e.g., user input",0.013505
+6,,SIFRank,BERT,1,input data,0.640272
+6,,SIFRank,BERT,2,active state,0.600619
+6,,SIFRank+,BERT,1,input data,0.027838
+6,,SIFRank+,BERT,2,active state,0.022245
+7,,SIFRank,BERT,1,two ports,0.710862
+7,,SIFRank,BERT,2,dataflow programming,0.684334
+7,,SIFRank,BERT,3,many ports,0.673193
+7,,SIFRank,BERT,4,input,0.629232
+7,,SIFRank,BERT,5,actor,0.437022
+7,,SIFRank+,BERT,1,actor,0.048558
+7,,SIFRank+,BERT,2,two ports,0.044429
+7,,SIFRank+,BERT,3,input,0.026218
+7,,SIFRank+,BERT,4,dataflow programming,0.018009
+7,,SIFRank+,BERT,5,many ports,0.016419
+8,,SIFRank,BERT,1,windows,0.533706
+8,,SIFRank+,BERT,1,windows,0.133427
+9,,SIFRank,BERT,1,asynchronous input/output,0.723587
+9,,SIFRank,BERT,2,network devices,0.657596
+9,,SIFRank,BERT,3,concurrency,0.640502
+9,,SIFRank,BERT,4,asynchrony,0.625496
+9,,SIFRank,BERT,5,commands,0.606699
+9,,SIFRank,BERT,6,programs,0.559025
+9,,SIFRank,BERT,7,storage,0.504191
+9,,SIFRank+,BERT,1,asynchronous input/output,0.241196
+9,,SIFRank+,BERT,2,asynchrony,0.0417
+9,,SIFRank+,BERT,3,programs,0.029422
+9,,SIFRank+,BERT,4,commands,0.02889
+9,,SIFRank+,BERT,5,network devices,0.026304
+9,,SIFRank+,BERT,6,storage,0.021921
+9,,SIFRank+,BERT,7,concurrency,0.014233
+10,,SIFRank,BERT,1,special syntax,0.680968
+10,,SIFRank,BERT,2,asynchrony,0.633176
+10,,SIFRank,BERT,3,cilk,0.538699
+10,,SIFRank,BERT,4,promise,0.490631
+10,,SIFRank,BERT,5,future,0.477385
+10,,SIFRank+,BERT,1,asynchrony,0.070353
+10,,SIFRank+,BERT,2,future,0.028081
+10,,SIFRank+,BERT,3,special syntax,0.013897
+10,,SIFRank+,BERT,4,promise,0.013629
+10,,SIFRank+,BERT,5,cilk,0.011711
+11,,SIFRank,BERT,1,examples,0.689646
+11,,SIFRank,BERT,2,asynchrony,0.664045
+11,,SIFRank+,BERT,1,examples,0.229882
+11,,SIFRank+,BERT,2,asynchrony,0.132809
+12,,SIFRank,BERT,1,* threads,1.0
+12,,SIFRank+,BERT,1,* threads,0.333333
+13,,SIFRank,BERT,1,web technologies,0.76519
+13,,SIFRank,BERT,2,ajax,0.475309
+13,,SIFRank+,BERT,1,ajax,0.118827
+13,,SIFRank+,BERT,2,web technologies,0.085021
+14,,SIFRank,BERT,1,thread starvation,0.613299
+14,,SIFRank,BERT,2,clients,0.579143
+14,,SIFRank,BERT,3,threads,0.535946
+14,,SIFRank,BERT,4,case,0.422116
+14,,SIFRank+,BERT,1,threads,0.014104
+14,,SIFRank+,BERT,2,thread starvation,0.007572
+14,,SIFRank+,BERT,3,clients,0.006895
+14,,SIFRank+,BERT,4,case,0.005343
+15,,SIFRank,BERT,1,new probabilistic programs,0.776697
+15,,SIFRank,BERT,2,probabilistic programming,0.722309
+15,,SIFRank,BERT,3,human developers,0.712469
+15,,SIFRank+,BERT,1,probabilistic programming,0.180577
+15,,SIFRank+,BERT,2,human developers,0.101781
+15,,SIFRank+,BERT,3,new probabilistic programs,0.070609
+16,,SIFRank,BERT,1,smaller probabilistic programs,0.785469
+16,,SIFRank,BERT,2,probabilistic programs,0.751521
+16,,SIFRank,BERT,3,modular component programs,0.747787
+16,,SIFRank,BERT,4,bayesian program synthesis,0.723725
+16,,SIFRank,BERT,5,probabilistic programming,0.677842
+16,,SIFRank,BERT,6,probabilistic inference,0.673547
+16,,SIFRank,BERT,7,automatic synthesis,0.624864
+16,,SIFRank,BERT,8,priors,0.609983
+16,,SIFRank,BERT,9,new programs,0.583294
+16,,SIFRank,BERT,10,inference,0.565213
+16,,SIFRank+,BERT,1,bayesian program synthesis,0.241242
+16,,SIFRank+,BERT,2,probabilistic programming,0.042365
+16,,SIFRank+,BERT,3,probabilistic programs,0.03416
+16,,SIFRank+,BERT,4,priors,0.021034
+16,,SIFRank+,BERT,5,automatic synthesis,0.015622
+16,,SIFRank+,BERT,6,probabilistic inference,0.014642
+16,,SIFRank+,BERT,7,modular component programs,0.013596
+16,,SIFRank+,BERT,8,new programs,0.013565
+16,,SIFRank+,BERT,9,smaller probabilistic programs,0.011221
+16,,SIFRank+,BERT,10,inference,0.008831
+17,,SIFRank,BERT,1,logical constraints,0.742146
+17,,SIFRank,BERT,2,bayesian program synthesis,0.726087
+17,,SIFRank,BERT,3,traditional program synthesis,0.693142
+17,,SIFRank,BERT,4,possible programs,0.682505
+17,,SIFRank,BERT,5,verification,0.555553
+17,,SIFRank,BERT,6,programs,0.52035
+17,,SIFRank,BERT,7,demonstration,0.466449
+17,,SIFRank,BERT,8,instance,0.453435
+17,,SIFRank,BERT,9,example,0.379535
+17,,SIFRank+,BERT,1,demonstration,0.018658
+17,,SIFRank+,BERT,2,example,0.018073
+17,,SIFRank+,BERT,3,traditional program synthesis,0.015753
+17,,SIFRank+,BERT,4,logical constraints,0.014003
+17,,SIFRank+,BERT,5,possible programs,0.011375
+17,,SIFRank+,BERT,6,verification,0.010893
+17,,SIFRank+,BERT,7,bayesian program synthesis,0.009946
+17,,SIFRank+,BERT,8,instance,0.009254
+17,,SIFRank+,BERT,9,programs,0.005656
+18,,SIFRank,BERT,1,bayesian program synthesis,0.750166
+18,,SIFRank,BERT,2,probabilistic program components,0.713619
+18,,SIFRank,BERT,3,bayesian program learning,0.712933
+18,,SIFRank,BERT,4,handwritten characters,0.599405
+18,,SIFRank,BERT,5,data,0.512272
+18,,SIFRank,BERT,6,order,0.396769
+18,,SIFRank+,BERT,1,bayesian program synthesis,0.150033
+18,,SIFRank+,BERT,2,bayesian program learning,0.047529
+18,,SIFRank+,BERT,3,probabilistic program components,0.035681
+18,,SIFRank+,BERT,4,data,0.016009
+18,,SIFRank+,BERT,5,handwritten characters,0.014272
+18,,SIFRank+,BERT,6,order,0.010174
+20,,SIFRank,BERT,1,one or more bits,0.735098
+20,,SIFRank,BERT,2,two possible values,0.715286
+20,,SIFRank,BERT,3,truth bit,0.560146
+20,,SIFRank,BERT,4,truth flag,0.536
+20,,SIFRank,BERT,5,computer science,0.445942
+20,,SIFRank+,BERT,1,truth bit,0.043088
+20,,SIFRank+,BERT,2,truth flag,0.029778
+20,,SIFRank+,BERT,3,one or more bits,0.022276
+20,,SIFRank+,BERT,4,computer science,0.017838
+20,,SIFRank+,BERT,5,two possible values,0.016257
+21,,SIFRank,BERT,1,one or more bytes,0.740264
+21,,SIFRank,BERT,2,bit fields,0.73755
+21,,SIFRank,BERT,3,packed representations,0.732217
+21,,SIFRank,BERT,4,sparse representations,0.684887
+21,,SIFRank,BERT,5,width,0.572541
+21,,SIFRank,BERT,6,variables,0.566646
+21,,SIFRank,BERT,7,software,0.47573
+21,,SIFRank+,BERT,1,bit fields,0.043385
+21,,SIFRank+,BERT,2,sparse representations,0.034244
+21,,SIFRank+,BERT,3,one or more bytes,0.023879
+21,,SIFRank+,BERT,4,variables,0.01954
+21,,SIFRank+,BERT,5,packed representations,0.018775
+21,,SIFRank+,BERT,6,software,0.01762
+21,,SIFRank+,BERT,7,width,0.015904
+22,,SIFRank,BERT,1,single or multiple bits,0.786511
+22,,SIFRank,BERT,2,compiler intrinsic functions,0.72803
+22,,SIFRank,BERT,3,bitwise operations,0.677139
+22,,SIFRank,BERT,4,one byte,0.63633
+22,,SIFRank,BERT,5,truth indicators,0.592741
+22,,SIFRank,BERT,6,combination,0.546877
+22,,SIFRank,BERT,7,conditions,0.545761
+22,,SIFRank,BERT,8,advancements,0.504184
+22,,SIFRank,BERT,9,testing,0.475541
+22,,SIFRank+,BERT,1,single or multiple bits,0.065543
+22,,SIFRank+,BERT,2,testing,0.047554
+22,,SIFRank+,BERT,3,combination,0.032169
+22,,SIFRank+,BERT,4,truth indicators,0.028226
+22,,SIFRank+,BERT,5,conditions,0.017605
+22,,SIFRank+,BERT,6,one byte,0.015151
+22,,SIFRank+,BERT,7,bitwise operations,0.015048
+22,,SIFRank+,BERT,8,compiler intrinsic functions,0.014561
+22,,SIFRank+,BERT,9,advancements,0.010504
+23,,SIFRank,BERT,1,multiple nested conditional statements,0.769377
+23,,SIFRank,BERT,2,certain conditions,0.687384
+23,,SIFRank,BERT,3,various combinations,0.604649
+23,,SIFRank,BERT,4,decision tables,0.568234
+23,,SIFRank,BERT,5,conditions,0.553894
+23,,SIFRank,BERT,6,memory,0.520849
+23,,SIFRank,BERT,7,programs,0.501793
+23,,SIFRank,BERT,8,reference,0.363173
+23,,SIFRank,BERT,9,flags,0.330465
+23,,SIFRank,BERT,10,mapping,0.203714
+23,,SIFRank+,BERT,1,programs,0.100359
+23,,SIFRank+,BERT,2,certain conditions,0.052876
+23,,SIFRank+,BERT,3,multiple nested conditional statements,0.036637
+23,,SIFRank+,BERT,4,flags,0.030042
+23,,SIFRank+,BERT,5,various combinations,0.010994
+23,,SIFRank+,BERT,6,conditions,0.00955
+23,,SIFRank+,BERT,7,decision tables,0.007285
+23,,SIFRank+,BERT,8,reference,0.005954
+23,,SIFRank+,BERT,9,memory,0.005787
+23,,SIFRank+,BERT,10,mapping,0.002425
+24,,SIFRank,BERT,1,thumb|right|a cheat sheet,0.733108
+24,,SIFRank,BERT,2,(hand)|palm,0.626917
+24,,SIFRank+,BERT,1,thumb|right|a cheat sheet,0.244369
+24,,SIFRank+,BERT,2,(hand)|palm,0.023219
+25,,SIFRank,BERT,1,front,0.479068
+25,,SIFRank+,BERT,1,front,0.079845
+26,,SIFRank,BERT,1,(also ''cheatsheet,0.718424
+26,,SIFRank,BERT,2,quick reference,0.665188
+26,,SIFRank,BERT,3,rote memorization,0.661963
+26,,SIFRank,BERT,4,cheat sheets,0.642088
+26,,SIFRank,BERT,5,job aid,0.627814
+26,,SIFRank,BERT,6,crib sheet,0.5994
+26,,SIFRank,BERT,7,vocational training,0.559781
+26,,SIFRank,BERT,8,students,0.553565
+26,,SIFRank,BERT,9,guidelines,0.521682
+26,,SIFRank,BERT,10,exams,0.457063
+26,,SIFRank+,BERT,1,(also ''cheatsheet,0.071842
+26,,SIFRank+,BERT,2,crib sheet,0.035259
+26,,SIFRank+,BERT,3,job aid,0.026159
+26,,SIFRank+,BERT,4,quick reference,0.017505
+26,,SIFRank+,BERT,5,cheat sheets,0.015661
+26,,SIFRank+,BERT,6,rote memorization,0.010184
+26,,SIFRank+,BERT,7,cheat,0.009503
+26,,SIFRank+,BERT,8,vocational training,0.009177
+26,,SIFRank+,BERT,9,notes,0.008849
+26,,SIFRank+,BERT,10,exam,0.008395
+27,,SIFRank,BERT,1,specific tasks,0.634066
+27,,SIFRank,BERT,2,many computer applications,0.622451
+27,,SIFRank,BERT,3,crib sheets,0.575635
+27,,SIFRank,BERT,4,job aid,0.556776
+27,,SIFRank,BERT,5,keystrokes,0.53464
+27,,SIFRank,BERT,6,commands,0.522232
+27,,SIFRank,BERT,7,two windows,0.508605
+27,,SIFRank,BERT,8,terms,0.506422
+27,,SIFRank,BERT,9,signs,0.47056
+27,,SIFRank,BERT,10,/symbols,0.449043
+27,,SIFRank+,BERT,1,job aid,0.046398
+27,,SIFRank+,BERT,2,terms,0.019478
+27,,SIFRank+,BERT,3,commands,0.018651
+27,,SIFRank+,BERT,4,signs,0.015179
+27,,SIFRank+,BERT,5,/symbols,0.014033
+27,,SIFRank+,BERT,6,many computer applications,0.011115
+27,,SIFRank+,BERT,7,crib sheets,0.008994
+27,,SIFRank+,BERT,8,specific tasks,0.007926
+27,,SIFRank+,BERT,9,keystrokes,0.007324
+27,,SIFRank+,BERT,10,example,0.005567
+28,,SIFRank,BERT,1,infix notation,0.667394
+28,,SIFRank,BERT,2,sequences,0.639826
+28,,SIFRank,BERT,3,instructions,0.634233
+28,,SIFRank,BERT,4,computer programming,0.614429
+28,,SIFRank,BERT,5,programmers,0.541619
+28,,SIFRank,BERT,6,tasks,0.534658
+28,,SIFRank,BERT,7,computers,0.507293
+28,,SIFRank,BERT,8,calculations,0.50282
+28,,SIFRank+,BERT,1,computer programming,0.20481
+28,,SIFRank+,BERT,2,sequences,0.033675
+28,,SIFRank+,BERT,3,instructions,0.030202
+28,,SIFRank+,BERT,4,computers,0.018789
+28,,SIFRank+,BERT,5,tasks,0.016708
+28,,SIFRank+,BERT,6,programmers,0.015045
+28,,SIFRank+,BERT,7,infix notation,0.014831
+28,,SIFRank+,BERT,8,calculations,0.012893
+29,,SIFRank,BERT,1,punched cards,0.675874
+29,,SIFRank,BERT,2,cards,0.565368
+29,,SIFRank,BERT,3,programs,0.524141
+29,,SIFRank+,BERT,1,programs,0.174714
+29,,SIFRank+,BERT,2,punched cards,0.084484
+29,,SIFRank+,BERT,3,cards,0.047114
+30,,SIFRank,BERT,1,development,0.483346
+30,,SIFRank+,BERT,1,development,0.069049
+31,,SIFRank,BERT,1,logic errors,0.798091
+31,,SIFRank,BERT,2,conceptual correctness,0.707277
+31,,SIFRank,BERT,3,minimization,0.62788
+31,,SIFRank,BERT,4,resource management,0.585028
+31,,SIFRank,BERT,5,*reliability,0.580874
+31,,SIFRank,BERT,6,programming mistakes,0.577845
+31,,SIFRank,BERT,7,algorithms,0.5528
+31,,SIFRank,BERT,8,buffer,0.522267
+31,,SIFRank,BERT,9,mistakes,0.457073
+31,,SIFRank,BERT,10,division,0.3808
+31,,SIFRank+,BERT,1,*reliability,0.193625
+31,,SIFRank+,BERT,2,conceptual correctness,0.037225
+31,,SIFRank+,BERT,3,minimization,0.026162
+31,,SIFRank+,BERT,4,algorithms,0.025127
+31,,SIFRank+,BERT,5,programming mistakes,0.022225
+31,,SIFRank+,BERT,6,logic errors,0.017735
+31,,SIFRank+,BERT,7,resource management,0.017728
+31,,SIFRank+,BERT,8,mistakes,0.014744
+31,,SIFRank+,BERT,9,buffer,0.013744
+31,,SIFRank+,BERT,10,division,0.007616
+32,,SIFRank,BERT,1,user error,0.765591
+32,,SIFRank,BERT,2,operating system services,0.725211
+32,,SIFRank,BERT,3,network connections,0.670106
+32,,SIFRank,BERT,4,*robustness,0.654734
+32,,SIFRank,BERT,5,errors,0.630934
+32,,SIFRank,BERT,6,unexpected power outages,0.616439
+32,,SIFRank,BERT,7,situations,0.587464
+32,,SIFRank,BERT,8,unavailability,0.587111
+32,,SIFRank,BERT,9,memory,0.560301
+32,,SIFRank,BERT,10,problems,0.545553
+32,,SIFRank+,BERT,1,*robustness,0.218245
+32,,SIFRank+,BERT,2,problems,0.049596
+32,,SIFRank+,BERT,3,errors,0.045067
+32,,SIFRank+,BERT,4,situations,0.026703
+32,,SIFRank+,BERT,5,unavailability,0.018347
+32,,SIFRank+,BERT,6,operating system services,0.01813
+32,,SIFRank+,BERT,7,user error,0.01595
+32,,SIFRank+,BERT,8,network connections,0.014891
+32,,SIFRank+,BERT,9,memory,0.014745
+32,,SIFRank+,BERT,10,unexpected power outages,0.011855
+33,,SIFRank,BERT,1,even unanticipated purposes,0.767939
+33,,SIFRank,BERT,2,sometimes hardware elements,0.695962
+33,,SIFRank,BERT,3,intuitiveness,0.647363
+33,,SIFRank,BERT,4,cohesiveness,0.639698
+33,,SIFRank,BERT,5,*usability,0.550107
+33,,SIFRank,BERT,6,completeness,0.523813
+33,,SIFRank+,BERT,1,*usability,0.183369
+33,,SIFRank+,BERT,2,even unanticipated purposes,0.025598
+33,,SIFRank+,BERT,3,sometimes hardware elements,0.011796
+33,,SIFRank+,BERT,4,intuitiveness,0.009662
+33,,SIFRank+,BERT,5,cohesiveness,0.009271
+33,,SIFRank+,BERT,6,completeness,0.007275
+34,,SIFRank,BERT,1,platform-specific compilers,0.744744
+34,,SIFRank,BERT,2,hardware and operating system resources,0.69294
+34,,SIFRank,BERT,3,*portability,0.645484
+34,,SIFRank,BERT,4,sometimes libraries,0.593748
+34,,SIFRank,BERT,5,differences,0.569764
+34,,SIFRank,BERT,6,behavior,0.515618
+34,,SIFRank+,BERT,1,*portability,0.215161
+34,,SIFRank+,BERT,2,differences,0.03561
+34,,SIFRank+,BERT,3,hardware and operating system resources,0.024748
+34,,SIFRank+,BERT,4,platform-specific compilers,0.01619
+34,,SIFRank+,BERT,5,behavior,0.014732
+34,,SIFRank+,BERT,6,sometimes libraries,0.011418
+35,,SIFRank,BERT,1,new environments,0.680608
+35,,SIFRank,BERT,2,good practices,0.612097
+35,,SIFRank,BERT,3,security holes,0.59924
+35,,SIFRank,BERT,4,initial development,0.519015
+35,,SIFRank,BERT,5,bugs,0.406858
+35,,SIFRank+,BERT,1,bugs,0.101714
+35,,SIFRank+,BERT,2,security holes,0.099873
+35,,SIFRank+,BERT,3,new environments,0.052354
+35,,SIFRank+,BERT,4,good practices,0.038256
+35,,SIFRank+,BERT,5,initial development,0.027317
+36,,SIFRank,BERT,1,even user interaction,0.761737
+36,,SIFRank,BERT,2,efficient use,0.743796
+36,,SIFRank,BERT,3,slow devices,0.740424
+36,,SIFRank,BERT,4,resource usage,0.735614
+36,,SIFRank,BERT,5,programmer time,0.712347
+36,,SIFRank,BERT,6,system resources,0.693081
+36,,SIFRank,BERT,7,*efficiency/performance,0.687078
+36,,SIFRank,BERT,8,memory space,0.677011
+36,,SIFRank,BERT,9,careful management,0.660354
+36,,SIFRank,BERT,10,resources,0.593127
+36,,SIFRank+,BERT,1,*efficiency/performance,0.229026
+36,,SIFRank+,BERT,2,system resources,0.069308
+36,,SIFRank+,BERT,3,measure,0.04988
+36,,SIFRank+,BERT,4,memory space,0.035632
+36,,SIFRank+,BERT,5,slow devices,0.033656
+36,,SIFRank+,BERT,6,even user interaction,0.022404
+36,,SIFRank+,BERT,7,disks,0.016806
+36,,SIFRank+,BERT,8,network,0.016615
+36,,SIFRank+,BERT,9,careful management,0.01405
+36,,SIFRank+,BERT,10,resources,0.011863
+37,,SIFRank,BERT,1,automated tests,0.766038
+37,,SIFRank,BERT,2,fitness functions,0.746164
+37,,SIFRank+,BERT,1,automated tests,0.19151
+37,,SIFRank+,BERT,2,fitness functions,0.106595
+38,,SIFRank,BERT,1,control flow,0.706239
+38,,SIFRank,BERT,2,portability,0.641856
+38,,SIFRank,BERT,3,readability,0.631328
+38,,SIFRank,BERT,4,source code,0.578614
+38,,SIFRank,BERT,5,quality,0.573658
+38,,SIFRank,BERT,6,computer programming,0.568543
+38,,SIFRank,BERT,7,usability,0.561505
+38,,SIFRank,BERT,8,operation,0.463164
+38,,SIFRank+,BERT,1,computer programming,0.142136
+38,,SIFRank+,BERT,2,readability,0.09019
+38,,SIFRank+,BERT,3,control flow,0.032102
+38,,SIFRank+,BERT,4,source code,0.020665
+38,,SIFRank+,BERT,5,operation,0.017814
+38,,SIFRank+,BERT,6,portability,0.016046
+38,,SIFRank+,BERT,7,quality,0.015935
+38,,SIFRank+,BERT,8,usability,0.013369
+39,,SIFRank,BERT,1,new source code,0.678137
+39,,SIFRank,BERT,2,unreadable code,0.669125
+39,,SIFRank,BERT,3,readability,0.563201
+39,,SIFRank,BERT,4,reading,0.512543
+39,,SIFRank,BERT,5,programmers,0.511798
+39,,SIFRank,BERT,6,inefficiencies,0.504203
+39,,SIFRank,BERT,7,bugs,0.436925
+39,,SIFRank+,BERT,1,readability,0.187734
+39,,SIFRank+,BERT,2,programmers,0.073114
+39,,SIFRank+,BERT,3,reading,0.03661
+39,,SIFRank+,BERT,4,new source code,0.021875
+39,,SIFRank+,BERT,5,unreadable code,0.019118
+39,,SIFRank+,BERT,6,inefficiencies,0.012005
+39,,SIFRank+,BERT,7,bugs,0.010923
+40,,SIFRank,BERT,1,many factors,0.698042
+40,,SIFRank,BERT,2,readability,0.564549
+40,,SIFRank+,BERT,1,readability,0.056455
+40,,SIFRank+,BERT,2,many factors,0.031729
+41,,SIFRank,BERT,1,*different indent styles,0.835192
+41,,SIFRank,BERT,2,whitespace,0.74898
+41,,SIFRank+,BERT,1,*different indent styles,0.278397
+41,,SIFRank+,BERT,2,whitespace,0.093622
+42,,SIFRank,BERT,1,*comments,1.0
+42,,SIFRank+,BERT,1,*comments,0.333333
+43,,SIFRank,BERT,1,*decomposition,1.0
+43,,SIFRank+,BERT,1,*decomposition,0.333333
+44,,SIFRank,BERT,1,functions,0.719305
+44,,SIFRank,BERT,2,objects,0.710955
+44,,SIFRank,BERT,3,variables,0.686369
+44,,SIFRank,BERT,4,procedures,0.622277
+44,,SIFRank,BERT,5,classes,0.558709
+44,,SIFRank,BERT,6,conventions,0.499313
+44,,SIFRank+,BERT,1,objects,0.101565
+44,,SIFRank+,BERT,2,conventions,0.099863
+44,,SIFRank+,BERT,3,variables,0.062397
+44,,SIFRank+,BERT,4,functions,0.047954
+44,,SIFRank+,BERT,5,classes,0.042978
+44,,SIFRank+,BERT,6,procedures,0.036605
+45,,SIFRank,BERT,1,line breaks,0.660982
+45,,SIFRank,BERT,2,color highlighting,0.647925
+45,,SIFRank,BERT,3,skills,0.584923
+45,,SIFRank,BERT,4,indents,0.528766
+45,,SIFRank+,BERT,1,line breaks,0.050845
+45,,SIFRank+,BERT,2,indents,0.04807
+45,,SIFRank+,BERT,3,color highlighting,0.040495
+45,,SIFRank+,BERT,4,skills,0.013927
+46,,SIFRank,BERT,1,various visual programming languages,0.751014
+46,,SIFRank,BERT,2,integrated development environments,0.740086
+46,,SIFRank,BERT,3,non-traditional approaches,0.729166
+46,,SIFRank,BERT,4,code refactoring,0.697083
+46,,SIFRank,BERT,5,readability concerns,0.688181
+46,,SIFRank,BERT,6,ides,0.650383
+46,,SIFRank,BERT,7,techniques,0.648533
+46,,SIFRank,BERT,8,code structure,0.640943
+46,,SIFRank,BERT,9,readability,0.553212
+46,,SIFRank,BERT,10,display,0.511234
+46,,SIFRank+,BERT,1,various visual programming languages,0.250338
+46,,SIFRank+,BERT,2,readability concerns,0.043011
+46,,SIFRank+,BERT,3,non-traditional approaches,0.036458
+46,,SIFRank+,BERT,4,code structure,0.025638
+46,,SIFRank+,BERT,5,integrated development environments,0.02467
+46,,SIFRank+,BERT,6,ides,0.019129
+46,,SIFRank+,BERT,7,display,0.018258
+46,,SIFRank+,BERT,8,code refactoring,0.015491
+46,,SIFRank+,BERT,9,techniques,0.015082
+46,,SIFRank+,BERT,10,readability,0.01129
+47,,SIFRank,BERT,1,well-established algorithms,0.704338
+47,,SIFRank,BERT,2,big o notation,0.673369
+47,,SIFRank,BERT,3,resource use,0.606615
+47,,SIFRank,BERT,4,execution time,0.605949
+47,,SIFRank,BERT,5,memory consumption,0.596731
+47,,SIFRank,BERT,6,expert programmers,0.595861
+47,,SIFRank,BERT,7,problems,0.586827
+47,,SIFRank,BERT,8,computer programming,0.57242
+47,,SIFRank,BERT,9,algorithms,0.546366
+47,,SIFRank,BERT,10,terms,0.544402
+47,,SIFRank+,BERT,1,computer programming,0.052038
+47,,SIFRank+,BERT,2,problems,0.020958
+47,,SIFRank+,BERT,3,algorithms,0.01607
+47,,SIFRank+,BERT,4,big o notation,0.016033
+47,,SIFRank+,BERT,5,resource use,0.012638
+47,,SIFRank+,BERT,6,orders,0.012338
+47,,SIFRank+,BERT,7,execution time,0.011433
+47,,SIFRank+,BERT,8,memory consumption,0.010656
+47,,SIFRank+,BERT,9,well-established algorithms,0.009268
+47,,SIFRank+,BERT,10,terms,0.009073
+48,,SIFRank,BERT,1,use case analysis,0.744178
+48,,SIFRank,BERT,2,different approaches,0.706532
+48,,SIFRank,BERT,3,formal software development,0.668849
+48,,SIFRank,BERT,4,many approaches,0.663928
+48,,SIFRank,BERT,5,short cycles,0.644483
+48,,SIFRank,BERT,6,value modeling,0.633666
+48,,SIFRank,BERT,7,many programmers,0.629932
+48,,SIFRank,BERT,8,requirements analysis,0.619822
+48,,SIFRank,BERT,9,one approach,0.609189
+48,,SIFRank,BERT,10,debugging,0.572075
+48,,SIFRank+,BERT,1,requirements analysis,0.047679
+48,,SIFRank+,BERT,2,value modeling,0.030175
+48,,SIFRank+,BERT,3,implementation,0.02166
+48,,SIFRank+,BERT,4,failure elimination,0.019182
+48,,SIFRank+,BERT,5,debugging,0.019069
+48,,SIFRank+,BERT,6,different approaches,0.018593
+48,,SIFRank+,BERT,7,use case analysis,0.014041
+48,,SIFRank+,BERT,8,one approach,0.013243
+48,,SIFRank+,BERT,9,requirements,0.011195
+48,,SIFRank+,BERT,10,many programmers,0.011051
+49,,SIFRank,BERT,1,popular modeling techniques,0.77381
+49,,SIFRank,BERT,2,object-oriented analysis,0.739094
+49,,SIFRank,BERT,3,design (mda,0.728241
+49,,SIFRank+,BERT,1,popular modeling techniques,0.257937
+49,,SIFRank+,BERT,2,object-oriented analysis,0.105585
+49,,SIFRank+,BERT,3,design (mda,0.060687

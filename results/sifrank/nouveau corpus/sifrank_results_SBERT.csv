@@ -1,0 +1,1001 @@
+doc_id,title,method,backend,rank,keyphrase,score
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank,SBERT,1,students' emotional regulation difficulties,0.847308
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank,SBERT,2,emotional regulation difficulties,0.811495
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank,SBERT,3,emotional regulation,0.747518
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank,SBERT,4,academic and clinical demands,0.735574
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank,SBERT,5,higher difficulty,0.734913
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank,SBERT,6,fourth-year dental students,0.733454
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank,SBERT,7,patient experience,0.717765
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank,SBERT,8,patient state anxiety,0.715809
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank,SBERT,9,patient satisfaction,0.693682
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank,SBERT,10,patient data,0.693067
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank+,SBERT,1,emotional regulation,0.249173
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank+,SBERT,2,empathy,0.105127
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank+,SBERT,3,surgical performance,0.078158
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank+,SBERT,4,dental students,0.052392
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank+,SBERT,5,academic and clinical demands,0.029423
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank+,SBERT,6,high stress,0.029123
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank+,SBERT,7,well-being,0.018566
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank+,SBERT,8,performance,0.016238
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank+,SBERT,9,patient anxiety,0.015285
+0,"Emotional regulation, empathy and surgical performance inundergraduate dental st",SIFRank+,SBERT,10,surgical procedures,0.01308
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank,SBERT,1,free flap procedures,0.777749
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank,SBERT,2,plastic and maxillofacial surgery volumes,0.716112
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank,SBERT,3,free skin flaps,0.707131
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank,SBERT,4,reimbursement trends,0.655106
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank,SBERT,5,free flaps,0.646351
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank,SBERT,6,plastic and maxillofacial surgery,0.636673
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank,SBERT,7,cms medicare physician,0.626117
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank,SBERT,8,plastic surgery,0.602267
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank,SBERT,9,medicare utilization,0.601319
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank,SBERT,10,procedure utilization,0.599381
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank+,SBERT,1,medicare utilization,0.20044
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank+,SBERT,2,reimbursement trends,0.109184
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank+,SBERT,3,free flaps,0.071817
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank+,SBERT,4,plastic surgery,0.043019
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank+,SBERT,5,free flap procedures,0.037036
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank+,SBERT,6,maxillofacial surgery,0.030439
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank+,SBERT,7,important components,0.022908
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank+,SBERT,8,otolaryngology,0.019901
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank+,SBERT,9,reconstructive surgery,0.015734
+1,"Medicare Utilization and Reimbursement Trends for Free Flaps in Otolaryngology, ",SIFRank+,SBERT,10,trends,0.011266
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank,SBERT,1,expert manual planning,0.756468
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank,SBERT,2,planning time,0.725004
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank,SBERT,3,real-time efficiency,0.707992
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank,SBERT,4,high patient satisfaction,0.697127
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank,SBERT,5,manual planning,0.69634
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank,SBERT,6,excellent implant alignment,0.693162
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank,SBERT,7,future work,0.691355
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank,SBERT,8,high accuracy,0.685156
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank,SBERT,9,statistical shape modeling,0.677191
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank,SBERT,10,bone contact area,0.676481
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank+,SBERT,1,mandibular reconstruction,0.072444
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank+,SBERT,2,evaluation,0.063319
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank+,SBERT,3,clinical application,0.051083
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank+,SBERT,4,automation,0.023185
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank+,SBERT,5,limitations,0.022962
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank+,SBERT,6,objectivity,0.020187
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank+,SBERT,7,statistical shape modeling,0.016124
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank+,SBERT,8,expert manual planning,0.010963
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank+,SBERT,9,reconstruction accuracy,0.009005
+2,An Automated Framework for Mandibular Reconstruction: Evaluation and Clinical Ap,SIFRank+,SBERT,10,planning time,0.008842
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank,SBERT,1,managed clinical networks,0.771205
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank,SBERT,2,role-specific training,0.768783
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank,SBERT,3, role-specific training,0.768783
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank,SBERT,4,longer-term strategic plans,0.755666
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank,SBERT,5,mcn chairs,0.71446
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank,SBERT,6,north west local dental networks,0.712851
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank,SBERT,7,local dental networks,0.712652
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank,SBERT,8,systems clinical leadership,0.703005
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank,SBERT,9,network chairs,0.70261
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank,SBERT,10,national guidance,0.701626
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank+,SBERT,1,mapping support,0.224409
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank+,SBERT,2,systems clinical leadership,0.117168
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank+,SBERT,3,north west local dental networks,0.071285
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank+,SBERT,4,local dental networks,0.041921
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank+,SBERT,5,managed clinical networks,0.032134
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank+,SBERT,6,ldns,0.0217
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank+,SBERT,7,mcns,0.020878
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank+,SBERT,8,clinical leadership,0.018155
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank+,SBERT,9,dental commissioning,0.013099
+3,Mapping support for systems clinical leadership in North West Local Dental Netwo,SIFRank+,SBERT,10,england,0.010198
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank,SBERT,1,chi-square tests,0.724404
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank,SBERT,2,her2 expression,0.693204
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank,SBERT,3,oral squamous cell carcinoma,0.674726
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank,SBERT,4,histological grade,0.666778
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank,SBERT,5,advanced disease characteristics,0.662377
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank,SBERT,6,strong predictors,0.656531
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank,SBERT,7,molecular and epidemiological insights,0.63601
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank,SBERT,8,significant association,0.629494
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank,SBERT,9,spss version,0.626005
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank,SBERT,10,her1-her4,0.620152
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank+,SBERT,1,molecular and epidemiological insights,0.212003
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank+,SBERT,2,oral squamous cell carcinoma,0.084341
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank+,SBERT,3,biomarker profiling,0.035521
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank+,SBERT,4,therapeutic advancements,0.03061
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank+,SBERT,5,prognostic,0.026771
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank+,SBERT,6,her1,0.01546
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank+,SBERT,7,her2,0.014445
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank+,SBERT,8,her3,0.013084
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank+,SBERT,9,her4,0.012938
+4,Molecular and Epidemiological Insights into Oral Squamous Cell Carcinoma: Biomar,SIFRank+,SBERT,10,ki-67,0.009753
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank,SBERT,1,analyzed ethics/legal issues,0.81006
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank,SBERT,2,recurrent ethical-legal themes,0.771111
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank,SBERT,3,"ai involvement, fairness auditing",0.768583
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank,SBERT,4,clear professional and manufacturer accountability,0.76444
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank,SBERT,5,decision-support,0.74583
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank,SBERT,6,legal considerations,0.742607
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank,SBERT,7,non-english items,0.733178
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank,SBERT,8,purely technical papers,0.722722
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank,SBERT,9,ethical and legal governance,0.717417
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank,SBERT,10,robotic/navigation support,0.70969
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank+,SBERT,1,artificial intelligence,0.209808
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank+,SBERT,2,oral and maxillofacial surgery,0.097857
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank+,SBERT,3,clinical applications,0.040579
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank+,SBERT,4,ethical challenges,0.038102
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank+,SBERT,5,legal considerations,0.033755
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank+,SBERT,6,robotic/navigation support,0.0151
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank+,SBERT,7,ethical and legal governance,0.013536
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank+,SBERT,8,planning,0.012806
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank+,SBERT,9,imaging,0.010403
+5,Artificial intelligence in oral and maxillofacial surgery: a scoping review of c,SIFRank+,SBERT,10,english-language articles,0.007636
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank,SBERT,1,chronic use downregulates cb1 signaling,0.785441
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank,SBERT,2,chiefly psychoactive δ9-thc,0.773044
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank,SBERT,3,cannabis-using patients,0.767241
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank,SBERT,4,cannabis use,0.763944
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank,SBERT,5,marijuana use,0.75206
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank,SBERT,6,widespread physiologic effects,0.73125
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank,SBERT,7,postoperative pain control,0.719855
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank,SBERT,8,evidence-based perioperative guidelines,0.702445
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank,SBERT,9,safe anesthetic management,0.699675
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank,SBERT,10,chronic users,0.698428
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank+,SBERT,1,marijuana use,0.250687
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank+,SBERT,2,outpatient anesthesia,0.06043
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank+,SBERT,3,cannabis,0.053969
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank+,SBERT,4,modern products,0.022379
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank+,SBERT,5,tetrahydrocannabinol (thc) concentrations,0.016787
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank+,SBERT,6,usage routes,0.01463
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank+,SBERT,7,current evidence,0.011875
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank+,SBERT,8,anesthesia providers,0.011631
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank+,SBERT,9,challenges,0.010548
+6,Marijuana Use and Its Impact on Outpatient Anesthesia,SIFRank+,SBERT,10,physiologic effects,0.01032
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank,SBERT,1,multi-disciplinary morbidity,0.735217
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank,SBERT,2,patient medical safety,0.705656
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank,SBERT,3,oral and maxillofacial surgeon training,0.701972
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank,SBERT,4,adverse events,0.689247
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank,SBERT,5,especially young physicians,0.686344
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank,SBERT,6,young surgeons,0.682188
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank,SBERT,7,surgery-related complications,0.678979
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank,SBERT,8,patient injuries,0.655291
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank,SBERT,9,early identification,0.640956
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank,SBERT,10,oral and maxillofacial surgery,0.627577
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank+,SBERT,1,implementation,0.136858
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank+,SBERT,2,oral and maxillofacial surgeon training,0.046798
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank+,SBERT,3,multi-disciplinary morbidity,0.030634
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank+,SBERT,4,improvement,0.017773
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank+,SBERT,5,md-mm&ics,0.016857
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank+,SBERT,6,oral and maxillofacial surgery departments,0.015577
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank+,SBERT,7,mortality,0.015514
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank+,SBERT,8,conferences,0.014319
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank+,SBERT,9,adverse events,0.013005
+7,"Implementation of multi-disciplinary morbidity, mortality and improvement confer",SIFRank+,SBERT,10,young surgeons,0.007841
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank,SBERT,1,ai-based predictive models,0.76148
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank,SBERT,2,machine learning,0.759486
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank,SBERT,3,electronic health records,0.752445
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank,SBERT,4,personalized healing risk scores,0.75219
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank,SBERT,5,preoperative healing prediction,0.724217
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank,SBERT,6,natural healing prowess,0.713814
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank,SBERT,7,autologous blood concentrates,0.706603
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank,SBERT,8,specific attention,0.67619
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank,SBERT,9,blood-based elements,0.659521
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank,SBERT,10,artificial intelligence,0.658817
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank+,SBERT,1,bioinformatics,0.124577
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank+,SBERT,2,preoperative healing prediction,0.10346
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank+,SBERT,3,dentistry,0.093542
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank+,SBERT,4,electronic health records,0.041803
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank+,SBERT,5,artificial intelligence,0.027451
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank+,SBERT,6,oral surgery,0.013644
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank+,SBERT,7,dental implant procedures,0.012419
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank+,SBERT,8,postoperative healing outcomes,0.011788
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank+,SBERT,9,systemic biological determinants,0.008888
+8,Bioinformatics in Dentistry: Preoperative Healing Prediction Using Artificial In,SIFRank+,SBERT,10,ai-based predictive models,0.007465
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank,SBERT,1,acute kidney injury,0.779087
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank,SBERT,2,multiple septic teeth,0.746882
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank,SBERT,3,multi-organ involvement,0.737121
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank,SBERT,4,brain abscess,0.731821
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank,SBERT,5,valve acute,0.721123
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank,SBERT,6,oral maxillofacial surgery,0.688524
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank,SBERT,7,complete clinical and biochemical recovery,0.666748
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank,SBERT,8,systemic complications,0.664476
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank,SBERT,9,cerebral abscesses,0.661079
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank,SBERT,10,infection-related glomerulonephritis,0.63775
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank+,SBERT,1,valve acute,0.144225
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank+,SBERT,2,brain abscess,0.066529
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank+,SBERT,3,infection-related glomerulonephritis,0.045554
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank+,SBERT,4,multi-organ involvement,0.01638
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank+,SBERT,5,infective endocarditis,0.01021
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank+,SBERT,6,acute kidney injury,0.008955
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank+,SBERT,7,cerebral abscesses,0.008475
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank+,SBERT,8,multiple septic teeth,0.008031
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank+,SBERT,9,septic embolization,0.008019
+9,Posterior Mitral Valve Acute Infective Endocarditis Complicated With Brain Absce,SIFRank+,SBERT,10,oral maxillofacial surgery,0.005598
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank,SBERT,1,ocp/col,0.700752
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank,SBERT,2,bone-related cells,0.670508
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank,SBERT,3,high osteogenic potential,0.667892
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank,SBERT,4,significant interest,0.643356
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank,SBERT,5,polymer materials,0.595273
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank,SBERT,6,bone defects,0.590277
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank,SBERT,7,octacalcium phosphate,0.576649
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank,SBERT,8,biomaterial researchers,0.574176
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank,SBERT,9,water molecules,0.572756
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank,SBERT,10,dental implants,0.562524
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank+,SBERT,1,biomaterial properties,0.179958
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank+,SBERT,2,octacalcium phosphate,0.096108
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank+,SBERT,3,significant interest,0.018382
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank+,SBERT,4,biomaterial researchers,0.01511
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank+,SBERT,5,bone-related cells,0.012191
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank+,SBERT,6,high osteogenic potential,0.00968
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank+,SBERT,7,bone defects,0.007666
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank+,SBERT,8,water molecules,0.006583
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank+,SBERT,9,ocp/col,0.005562
+10,Biomaterial properties of octacalcium phosphate (OCP) and its collagen composite,SIFRank+,SBERT,10,osteoblasts,0.005461
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank,SBERT,1,different vertical facial patterns,0.800291
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank,SBERT,2,hyperdivergent vertical facial patterns,0.775252
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank,SBERT,3,vertical facial growth patterns,0.771106
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank,SBERT,4,statistically significant thicker irt,0.750395
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank,SBERT,5,gender-specific differences,0.727889
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank,SBERT,6,significantly thinner irt,0.712299
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank,SBERT,7,cone beam computed tomography,0.698306
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank,SBERT,8,long-term stability,0.66771
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank,SBERT,9,minimal differences,0.66162
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank,SBERT,10,distinct site,0.657711
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank+,SBERT,1,macro,0.144982
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank+,SBERT,2,microstructural assessment,0.107633
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank+,SBERT,3,different vertical facial patterns,0.061561
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank+,SBERT,4,alveolar bone,0.060347
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank+,SBERT,5,adults,0.042038
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank+,SBERT,6,cone beam computed tomography,0.038795
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank+,SBERT,7,vertical facial growth patterns,0.033526
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank+,SBERT,8,significant implications,0.016676
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank+,SBERT,9,craniofacial morphology,0.016064
+11,Macro- and microstructural assessment of alveolar bone in adults with different ,SIFRank+,SBERT,10,long-term stability,0.014838
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank,SBERT,1,mid-career faculty development,0.807838
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank,SBERT,2,omfs surgeon-scientists,0.749951
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank,SBERT,3,multiple transition points,0.735075
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank,SBERT,4,inadequate financial support,0.726454
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank,SBERT,5,high-quality mentorship,0.725718
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank,SBERT,6,) principal investigators,0.716079
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank,SBERT,7,diverse funding mechanisms,0.710756
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank,SBERT,8,clinician- and surgeon-scientists,0.707532
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank,SBERT,9,major challenges,0.705085
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank,SBERT,10,coordinated and longitudinal mentorship,0.703071
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank+,SBERT,1,surgeon-scientists,0.029127
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank+,SBERT,2,understanding,0.018232
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank+,SBERT,3,human disease,0.016446
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank+,SBERT,4,patient care,0.015669
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank+,SBERT,5,oral and maxillofacial surgery,0.011488
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank+,SBERT,6,) principal investigators,0.008951
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank+,SBERT,7,national institutes,0.008097
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank+,SBERT,8,example,0.007844
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank+,SBERT,9,omfs,0.007352
+12,The Oral and Maxillofacial Surgeon-Scientist Career Pathway in the United States,SIFRank+,SBERT,10,omfs surgeon-scientists,0.007352
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank,SBERT,1,tertiary care access,0.743861
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank,SBERT,2,advanced-stage disease,0.719211
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank,SBERT,3,postummc timing,0.71673
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank,SBERT,4,high-svi communities,0.713011
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank,SBERT,5,timely surgical access,0.711489
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank,SBERT,6,hnc surgical timing,0.710608
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank,SBERT,7,medically underserved states,0.709236
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank,SBERT,8,high-svi areas,0.70784
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank,SBERT,9,social vulnerability index,0.701259
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank,SBERT,10,mississippi medical center,0.691997
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank+,SBERT,1,care,0.067096
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank+,SBERT,2,patients,0.047945
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank+,SBERT,3,treatment,0.040598
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank+,SBERT,4,head,0.038507
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank+,SBERT,5,neck cancer,0.03638
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank+,SBERT,6,advanced-stage disease,0.016346
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank+,SBERT,7,free-flap reconstruction,0.013927
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank+,SBERT,8,survival,0.013256
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank+,SBERT,9,medically underserved states,0.012895
+13,Sociodemographic Factors and Delays in Care for Patients Undergoing Treatment fo,SIFRank+,SBERT,10,limited specialty availability,0.00957
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank,SBERT,1,term co-occurrence networks,0.804411
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank,SBERT,2,medical image analysis,0.784328
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank,SBERT,3,mapping artificial intelligence research,0.782077
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank,SBERT,4,science core collection,0.766586
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank,SBERT,5,pathway analysis and outcome prediction,0.765621
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank,SBERT,6,particularly imaging-driven models,0.76448
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank,SBERT,7,traditional machine learning,0.764435
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank,SBERT,8,ai research,0.757931
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank,SBERT,9,co-occurrence network,0.757108
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank,SBERT,10,complex clinical data,0.755113
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank+,SBERT,1,mapping artificial intelligence research,0.260692
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank+,SBERT,2,oral and maxillofacial surgery,0.074102
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank+,SBERT,3,complex clinical data,0.030205
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank+,SBERT,4,omfs,0.019429
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank+,SBERT,5,great potential,0.013732
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank+,SBERT,6,science core collection,0.009464
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank+,SBERT,7,publications,0.008139
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank+,SBERT,8,co-citation networks,0.007503
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank+,SBERT,9,hotspots,0.007026
+14,Mapping Artificial Intelligence Research in Oral and Maxillofacial Surgery: A Bi,SIFRank+,SBERT,10,co-occurrence network,0.0067
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank,SBERT,1,significant functional and aesthetic impact,0.716005
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank,SBERT,2,limited mouth opening,0.70675
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank,SBERT,3,long-term assessment,0.702804
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank,SBERT,4,surgically treated cases,0.685228
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank,SBERT,5,young men,0.682043
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank,SBERT,6,associated fractures,0.66884
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank,SBERT,7,motorcycle accidents,0.646633
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank,SBERT,8,traffic accidents,0.636085
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank,SBERT,9,mandibular condylar fractures,0.63415
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank,SBERT,10,condyle fracture,0.616908
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank+,SBERT,1,long-term assessment,0.234268
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank+,SBERT,2,condyle fracture,0.077114
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank+,SBERT,3,outcomes,0.044079
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank+,SBERT,4,mandibular condylar fractures,0.042277
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank+,SBERT,5,complications,0.036069
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank+,SBERT,6,significant functional and aesthetic impact,0.023097
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank+,SBERT,7,treatment options,0.01134
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank+,SBERT,8,patients,0.009285
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank+,SBERT,9,western paraná,0.007408
+15,Long-Term Assessment of Condyle Fracture: Outcomes and Complications,SIFRank+,SBERT,10,huop,0.006603
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank,SBERT,1,cardiac arrest complicating routine throat,0.815971
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank,SBERT,2,throat pack placement,0.77324
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank,SBERT,3,severe vagally mediated cardiovascular reflexes,0.759053
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank,SBERT,4,throat pack insertion,0.75693
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank,SBERT,5,appropriate anesthetic depth,0.732638
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank,SBERT,6,sudden cardiac arrest,0.718421
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank,SBERT,7,complete electrical asystole,0.687902
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank,SBERT,8,oral and maxillofacial surgery,0.687211
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank,SBERT,9,throat packs,0.673244
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank,SBERT,10,airway or oropharyngeal manipulation,0.652633
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank+,SBERT,1,cardiac arrest complicating routine throat,0.27199
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank+,SBERT,2,oral and maxillofacial surgery,0.062474
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank+,SBERT,3,general anesthesia,0.039708
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank+,SBERT,4,throat packs,0.029271
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank+,SBERT,5,severe vagally mediated cardiovascular reflexes,0.018513
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank+,SBERT,6,airway or oropharyngeal manipulation,0.013053
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank+,SBERT,7,throat pack insertion,0.011131
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank+,SBERT,8,cardiac arrest,0.009933
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank+,SBERT,9,throat pack placement,0.008497
+16,Cardiac arrest complicating routine throat pack insertion in oral and maxillofac,SIFRank+,SBERT,10,third molar extraction,0.007867
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank,SBERT,1,two oral pg cases,0.769983
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank,SBERT,2,thorough surgical removal,0.736597
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank,SBERT,3,complete surgical excision,0.714287
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank,SBERT,4,pg management,0.667567
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank,SBERT,5,good healing,0.645245
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank,SBERT,6,gestational hormonal changes,0.640205
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank,SBERT,7,different etiologies,0.635061
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank,SBERT,8,distinct triggers,0.612537
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank,SBERT,9,local irritants,0.606753
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank,SBERT,10,systemic factors,0.602198
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank+,SBERT,1,multifactorial etiology,0.166862
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank+,SBERT,2,oral pyogenic granuloma,0.095523
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank+,SBERT,3,distinct triggers,0.047118
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank+,SBERT,4,pyogenic granuloma,0.0338
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank+,SBERT,5,multifactorial origin,0.01585
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank+,SBERT,6,two oral pg cases,0.014528
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank+,SBERT,7,clinical variability,0.011043
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank+,SBERT,8,different etiologies,0.010949
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank+,SBERT,9,factors,0.009026
+17,Multifactorial etiology of oral pyogenic granuloma: case reports with distinct t,SIFRank+,SBERT,10,complete surgical excision,0.007143
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank,SBERT,1,anterior pre-bent miniplates,0.874706
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank,SBERT,2,solely pre-bent miniplates,0.863848
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank,SBERT,3,pre-bent fixation strategies,0.853414
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank,SBERT,4,pre-bent miniplates,0.834262
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank,SBERT,5,bent anterior miniplates,0.79581
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank,SBERT,6,many different possible reconstructive strategies,0.778795
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank,SBERT,7,patient-specific plates,0.756227
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank,SBERT,8,primary fixation stability evaluation,0.720192
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank,SBERT,9,"therefore, the present study",0.689533
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank,SBERT,10,anterior miniplates,0.68782
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank+,SBERT,1,primary fixation stability evaluation,0.240064
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank+,SBERT,2,mandibular reconstruction,0.037227
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank+,SBERT,3,many different possible reconstructive strategies,0.026855
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank+,SBERT,4,maxillofacial surgery,0.02292
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank+,SBERT,5,modular fixation,0.016695
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank+,SBERT,6,patient-specific plates,0.013038
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank+,SBERT,7,miniplates,0.012584
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank+,SBERT,8,reconstruction plates,0.010267
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank+,SBERT,9,anterior miniplates,0.009422
+18,Primary fixation stability evaluation of pre-bent titanium miniplate configurati,SIFRank+,SBERT,10,conventional miniplates,0.007066
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank,SBERT,1,early and effective patient communication,0.778997
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank,SBERT,2,decision-making,0.757736
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank,SBERT,3,predictive artificial intelligence,0.756991
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank,SBERT,4,predictive ai models,0.750002
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank,SBERT,5,predictive ai,0.738669
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank,SBERT,6,preoperative medical imaging modalities,0.695068
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank,SBERT,7,strong applications,0.673114
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank,SBERT,8,timely intervention,0.662962
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank,SBERT,9,surgical planning,0.660566
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank,SBERT,10,clinical time,0.657273
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank+,SBERT,1,predictive artificial intelligence,0.25233
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank+,SBERT,2,maxillofacial surgery,0.073969
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank+,SBERT,3,applications,0.018872
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank+,SBERT,4,predictive ai models,0.018293
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank+,SBERT,5,studies,0.015294
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank+,SBERT,6,predictive ai,0.009008
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank+,SBERT,7,strong applications,0.007397
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank+,SBERT,8,preoperative medical imaging modalities,0.006951
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank+,SBERT,9,postoperative results,0.006618
+19,Predictive artificial intelligence in maxillofacial surgery: a systematic review,SIFRank+,SBERT,10,high accuracy,0.005924
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank,SBERT,1,structural magnetic resonance imaging technology,0.750968
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank,SBERT,2,non-syndromic cleft lip,0.749124
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank,SBERT,3,medial orbital frontal lobe,0.747852
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank,SBERT,4,speech motor planning,0.716011
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank,SBERT,5,brain regions,0.702222
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank,SBERT,6,therapy scans group,0.699198
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank,SBERT,7,standardized speech therapy,0.695967
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank,SBERT,8,oral and maxillofacial surgery,0.680301
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank,SBERT,9,objectivethe purpose,0.669825
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank,SBERT,10,speech therapy,0.652083
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank+,SBERT,1,morphological changes,0.212581
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank+,SBERT,2,non-syndromic cleft lip,0.062427
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank+,SBERT,3,children,0.047339
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank+,SBERT,4,speech therapy,0.032604
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank+,SBERT,5,objectivethe purpose,0.029123
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank+,SBERT,6,palate,0.028938
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank+,SBERT,7,cerebral morphology,0.017189
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank+,SBERT,8,patients,0.012651
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank+,SBERT,9,structural magnetic resonance imaging technology,0.012311
+20,Morphological Changes Occur in the Brains of Children With Non-Syndromic Cleft L,SIFRank+,SBERT,10,cleft lip,0.011798
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank,SBERT,1,expert-rated clarity,0.798065
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank,SBERT,2,overall diagnostic accuracy,0.745504
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank,SBERT,3,fifty diverse clinical vignettes,0.719469
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank,SBERT,4,three oral and maxillofacial surgeons,0.708685
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank,SBERT,5,moderate diagnostic capability,0.70612
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank,SBERT,6,diagnostic reasoning,0.687057
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank,SBERT,7,expert consensus,0.681402
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank,SBERT,8,domain-specific optimization,0.67376
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank,SBERT,9,expert oversight,0.663064
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank,SBERT,10,classical lesion patterns,0.66169
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank+,SBERT,1,oral and maxillofacial lesions,0.057776
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank+,SBERT,2,chatgpt-4,0.051815
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank+,SBERT,3,oral and maxillofacial surgery,0.013195
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank+,SBERT,4,clinicians,0.012643
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank+,SBERT,5,trainees,0.010823
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank+,SBERT,6,lesions,0.008882
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank+,SBERT,7,standardized clinical vignettes,0.008826
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank+,SBERT,8,omfs lesions,0.008662
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank+,SBERT,9,fifty diverse clinical vignettes,0.008366
+21,Evaluating the diagnostic accuracy of ChatGPT-4 in oral and maxillofacial lesion,SIFRank+,SBERT,10,expert consensus,0.00821
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank,SBERT,1,nine prospective studies,0.766616
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank,SBERT,2,greater pain-free opening,0.764208
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank,SBERT,3,one large cohort,0.738888
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank,SBERT,4,random-effects models,0.732269
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank,SBERT,5,higher pain intensity,0.716762
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank,SBERT,6,meta-analyses,0.715528
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank,SBERT,7,meta-analysis,0.713312
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank,SBERT,8,two independent reviewers,0.710131
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank,SBERT,9,less favourable prognoses,0.699819
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank,SBERT,10,subsequent treatment needs,0.679783
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank+,SBERT,1,prognostic factors,0.190213
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank+,SBERT,2,pain intensity,0.103757
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank+,SBERT,3,function,0.045025
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank+,SBERT,4,individuals,0.042052
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank+,SBERT,5,temporomandibular disorders,0.036284
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank+,SBERT,6,meta-analysis,0.032423
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank+,SBERT,7,tmds,0.025422
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank+,SBERT,8,secondary objectives,0.013028
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank+,SBERT,9,subsequent treatment needs,0.011522
+22,Prognostic factors for pain intensity and function in individuals with temporoma,SIFRank+,SBERT,10,symptom progression,0.011219
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank,SBERT,1,postoperative follow-up management,0.805945
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank,SBERT,2,postoperative follow-up care,0.784697
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank,SBERT,3,self-reported confidence,0.757862
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank,SBERT,4,postoperative follow-up,0.753339
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank,SBERT,5,consistent early review timing,0.737282
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank,SBERT,6,self-developed protocols,0.735684
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank,SBERT,7,spearman's rank correlation tests,0.735125
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank,SBERT,8,forty-eight oral surgeons,0.693947
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank,SBERT,9,surgeon confidence,0.671635
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank,SBERT,10,oroantral communication closure,0.665828
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank+,SBERT,1,oroantral communication closure,0.055486
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank+,SBERT,2,oroantral communication,0.037522
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank+,SBERT,3,posterior maxillary teeth,0.015586
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank+,SBERT,4,untreated defects,0.013637
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank+,SBERT,5,progress,0.012522
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank+,SBERT,6,postoperative follow-up care,0.011052
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank+,SBERT,7,surgical closure techniques,0.009526
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank+,SBERT,8,chronic sinusitis,0.008624
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank+,SBERT,9,evidence,0.00797
+23,Oral surgeons' postoperative follow-up practices after Oroantral communication c,SIFRank+,SBERT,10,extraction,0.007676
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank,SBERT,1,free flap reconstruction,0.728071
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank,SBERT,2,free flap maxillofacial reconstructions,0.721673
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank,SBERT,3,superficial temporal vessels,0.715112
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank,SBERT,4,recipient site morbidity,0.704897
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank,SBERT,5,meta-analysis,0.696335
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank,SBERT,6,twenty-one studies,0.69423
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank,SBERT,7,recipient site complications,0.690723
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank,SBERT,8,complex head,0.671844
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank,SBERT,9,reported outcomes,0.666581
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank,SBERT,10,temporal vessels,0.664254
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank+,SBERT,1,temporal vessels,0.221418
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank+,SBERT,2,maxillofacial microvascular reconstruction,0.050336
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank+,SBERT,3,meta-analysis,0.036649
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank+,SBERT,4,reported outcomes,0.028982
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank+,SBERT,5,superficial temporal vessels,0.018819
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank+,SBERT,6,free flap reconstruction,0.016179
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank+,SBERT,7,recipient vessels,0.015243
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank+,SBERT,8,potential advantages,0.009627
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank+,SBERT,9,complication rates,0.008787
+24,Temporal Vessels: An Established Recipient Site for Maxillofacial Microvascular ,SIFRank+,SBERT,10,available evidence,0.008786
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank,SBERT,1,grade certainty assessment,0.721153
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank,SBERT,2,non-extraction approaches,0.695027
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank,SBERT,3,prisma 2020 guidelines,0.679909
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank,SBERT,4,human studies,0.671378
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank,SBERT,5,clinically diagnosed tmd,0.6665
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank,SBERT,6,treatment planning,0.657042
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank,SBERT,7,important implications,0.65586
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank,SBERT,8,eight studies,0.653165
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank,SBERT,9,clinical trials registry-india,0.638656
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank,SBERT,10,tmj pain or tmd symptoms,0.624485
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank+,SBERT,1,temporomandibular joint pain,0.051605
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank+,SBERT,2,extraction,0.039628
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank+,SBERT,3,rationale,0.021725
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank+,SBERT,4,dental extraction,0.019688
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank+,SBERT,5,oral surgery practice,0.015632
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank+,SBERT,6,important implications,0.015616
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank+,SBERT,7,treatment planning,0.014601
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank+,SBERT,8,patients,0.010643
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank+,SBERT,9,temporomandibular disorders,0.010088
+25,To do or not to do extraction in temporomandibular joint pain: a systematic revi,SIFRank+,SBERT,10,tmj pain or tmd symptoms,0.008673
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank,SBERT,1,dynamic microbial communities,0.757942
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank,SBERT,2,several antibiotic-resistance mechanisms,0.737044
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank,SBERT,3,microbial communities,0.710398
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank,SBERT,4,obturator prosthesis biofilms,0.687061
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank,SBERT,5,microbial diversity,0.684172
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank,SBERT,6,human disease,0.624154
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank,SBERT,7,unclassified species,0.606129
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank,SBERT,8,unusual pathogens,0.596838
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank,SBERT,9,cellular processes,0.594001
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank,SBERT,10,obturator prostheses,0.592757
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank+,SBERT,1,microbial diversity,0.228057
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank+,SBERT,2,composition,0.081507
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank+,SBERT,3,obturator prosthesis biofilms,0.07634
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank+,SBERT,4,exploratory findings,0.044489
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank+,SBERT,5,microbial communities,0.03552
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank+,SBERT,6,viruses,0.013506
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank+,SBERT,7,prokaryotes,0.012636
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank+,SBERT,8,metagenomics,0.007901
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank+,SBERT,9,metagenomic analysis,0.00664
+26,Microbial Diversity and Composition Uncovered on Obturator Prosthesis Biofilms: ,SIFRank+,SBERT,10,unclassified species,0.005364
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank,SBERT,1,non-absorbable suture materials,0.801441
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank,SBERT,2,different toothpaste solutions,0.727289
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank,SBERT,3,suture materials,0.726635
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank,SBERT,4,four different toothpastes,0.726027
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank,SBERT,5,certain toothpaste formulations,0.725448
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank,SBERT,6,early wound healing,0.715902
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank,SBERT,7,artificial saliva,0.702434
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank,SBERT,8,different toothpaste formulations,0.691849
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank,SBERT,9,absorbable sutures,0.67911
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank,SBERT,10,certain days,0.659948
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank+,SBERT,1,evaluation,0.176073
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank+,SBERT,2,non-absorbable suture materials,0.072858
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank+,SBERT,3,absorbable,0.06142
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank+,SBERT,4,different toothpaste solutions,0.040405
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank+,SBERT,5,suture materials,0.020184
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank+,SBERT,6,different toothpaste formulations,0.016874
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank+,SBERT,7,wound healing,0.012958
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank+,SBERT,8,exposure,0.01283
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank+,SBERT,9,four different toothpastes,0.009946
+27,Evaluation of the Tensile Strength of Absorbable and Non-Absorbable Suture Mater,SIFRank+,SBERT,10,silicone rods,0.009324
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank,SBERT,1,two separate systematic reviews,0.750454
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank,SBERT,2,"however, inconsistent reporting metrics",0.734573
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank,SBERT,3,nih quality assessment,0.71774
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank,SBERT,4,rigorous prospective studies,0.69263
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank,SBERT,5,standardized outcome measures,0.691307
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank,SBERT,6,long-term outcomes,0.689756
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank,SBERT,7,intraoperative imaging and navigation techniques,0.677758
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank,SBERT,8,even small inaccuracies,0.674868
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank,SBERT,9,meaningful comparison,0.649108
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank,SBERT,10,surgical outcomes,0.635799
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank+,SBERT,1,intraoperative imaging,0.076303
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank+,SBERT,2,maxillofacial surgery,0.057239
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank+,SBERT,3,even small inaccuracies,0.029342
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank+,SBERT,4,maxillofacial reconstruction,0.026463
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank+,SBERT,5,aesthetics,0.019477
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank+,SBERT,6,preoperative imaging,0.01533
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank+,SBERT,7,safety,0.014526
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank+,SBERT,8,surgeons,0.014444
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank+,SBERT,9,function,0.013717
+28,The Current State of Intraoperative Imaging in Maxillofacial Surgery: A Systemat,SIFRank+,SBERT,10,recent advances,0.013462
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank,SBERT,1,lateral incisor root resorption,0.730463
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank,SBERT,2,closed exposure techniques,0.713293
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank,SBERT,3,closed surgical exposure,0.712789
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank,SBERT,4,eruption difficulty,0.699947
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank,SBERT,5,initial surgical-orthodontic treatment,0.69967
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank,SBERT,6,successful eruption,0.699258
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank,SBERT,7,fisher's test,0.692293
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank,SBERT,8,pearson exact test,0.691797
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank,SBERT,9,treatment failure,0.688854
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank,SBERT,10,two independent clinicians,0.679353
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank+,SBERT,1,factors,0.140899
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank+,SBERT,2,failures,0.0704
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank+,SBERT,3,complications,0.067796
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank+,SBERT,4,surgical orthodontic treatment,0.04366
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank+,SBERT,5,cases,0.00806
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank+,SBERT,6,dental medicine,0.007686
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank+,SBERT,7,two independent clinicians,0.007227
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank+,SBERT,8,clinical and radiographic data,0.006524
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank+,SBERT,9,oral and maxillofacial surgery,0.006
+29,Factors Contributing to Complications and Failures of Impacted Canines Undergoin,SIFRank+,SBERT,10,results,0.005016
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank,SBERT,1,surgically applied er,0.791906
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank,SBERT,2,longer follow-up,0.753576
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank,SBERT,3,mechanical or optical measurement methods,0.722948
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank,SBERT,4,yag laser therapy,0.708611
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank,SBERT,5,meta-analysis,0.707088
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank,SBERT,6,high-power lasers,0.694458
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank,SBERT,7,post-extraction ridge collapse,0.691642
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank,SBERT,8,cone-beam computed tomography,0.691392
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank,SBERT,9,laser-assisted strategies,0.669608
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank,SBERT,10,overall certainty,0.668989
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank+,SBERT,1,laser-assisted strategies,0.223203
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank+,SBERT,2,alveolar bone preservation,0.069716
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank+,SBERT,3,tooth extraction,0.047071
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank+,SBERT,4,implant planning,0.020074
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank+,SBERT,5,high-power lasers,0.016938
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank+,SBERT,6,surgically applied er,0.016849
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank+,SBERT,7,compromises,0.012742
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank+,SBERT,8,yag lasers,0.01146
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank+,SBERT,9,yag-based photobiomodulation,0.008645
+30,Laser-Assisted Strategies for Alveolar Bone Preservation After Tooth Extraction:,SIFRank+,SBERT,10,post-extraction ridge collapse,0.0076
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank,SBERT,1,fewer intraoperative plan modifications,0.757572
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank,SBERT,2,shorter hospital stays,0.746889
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank,SBERT,3,omfs-specific evidence,0.735712
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank,SBERT,4,preoperative planning time,0.728466
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank,SBERT,5,high-complexity procedures,0.707833
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank,SBERT,6,lower complication rates,0.690272
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank,SBERT,7,complex procedures,0.686117
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank,SBERT,8,unified digital platforms,0.68583
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank,SBERT,9,contemporary omfs practice,0.672408
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank,SBERT,10,relevant improvements,0.670707
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank+,SBERT,1,b-onic platform,0.219524
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank+,SBERT,2,care,0.043775
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank+,SBERT,3,oral and maxillofacial surgery,0.040406
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank+,SBERT,4,objectives,0.018658
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank+,SBERT,5,evidence,0.009056
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank+,SBERT,6,omfs,0.008108
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank+,SBERT,7,routine omfs practice,0.005821
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank+,SBERT,8,omfs procedures,0.00551
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank+,SBERT,9,surgical cases,0.004841
+31,B-Onic Platform for Point-of-Care 3D Printing in Oral and Maxillofacial Surgery:,SIFRank+,SBERT,10,methods,0.004526
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank,SBERT,1,emergency oral health care presentations,0.767695
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank,SBERT,2,emergency dental care,0.708954
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank,SBERT,3,general dental services,0.684357
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank,SBERT,4,emergency tooth extractions,0.678242
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank,SBERT,5,oral surgery-related presentations,0.649627
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank,SBERT,6,indigenous australians,0.632096
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank,SBERT,7,dental trauma,0.615787
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank,SBERT,8,loose teeth,0.602262
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank,SBERT,9,oral health,0.601027
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank,SBERT,10,adult patients,0.594126
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank+,SBERT,1,higher rates,0.183699
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank+,SBERT,2,emergency oral health care presentations,0.127949
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank+,SBERT,3,indigenous australians,0.052675
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank+,SBERT,4,dental presentations,0.019232
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank+,SBERT,5,oral health,0.01431
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank+,SBERT,6,australia,0.011263
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank+,SBERT,7,adult patients,0.010609
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank+,SBERT,8,clinical notes,0.008822
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank+,SBERT,9,(pain,0.007359
+32,Higher Rates of Emergency Oral Health Care Presentations Among Indigenous Austra,SIFRank+,SBERT,10,dental trauma,0.007331
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank,SBERT,1,four different time points,0.756522
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank,SBERT,2,several other clinical applications,0.708423
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank,SBERT,3,tissue healing processes,0.677183
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank,SBERT,4,qualitative flow cytometric analysis,0.649862
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank,SBERT,5,enzyme-linked immunosorbent assay,0.642468
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank,SBERT,6,enzyme-linked immunosorbent assays,0.640011
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank,SBERT,7,early platelet activation,0.635929
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank,SBERT,8,topical surgical applications,0.625164
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank,SBERT,9,platelet-rich plasma,0.623684
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank,SBERT,10,× 103/ml,0.618984
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank+,SBERT,1,platelet-rich plasma,0.207895
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank+,SBERT,2,clinical application,0.053182
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank+,SBERT,3,qualitative flow cytometric analysis,0.046419
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank+,SBERT,4,enzyme-linked immunosorbent assay,0.033814
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank+,SBERT,5,platelet activation,0.019899
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank+,SBERT,6,elisa,0.017767
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank+,SBERT,7,tgfβ release,0.017318
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank+,SBERT,8,storage,0.013175
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank+,SBERT,9,platelet concentrates,0.012916
+33,Platelet-Rich Plasma (PRP) Before Clinical Application: Qualitative Flow Cytomet,SIFRank+,SBERT,10,clinical practice,0.012261
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank,SBERT,1,third nolar eruption/retention,0.775606
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank,SBERT,2,lower third molar eruption,0.765869
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank,SBERT,3,machine learning,0.739263
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank,SBERT,4,m3 panoramic radiological images,0.730862
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank,SBERT,5,mandibular third molar eruption,0.729265
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank,SBERT,6,third molar eruption,0.723752
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank,SBERT,7,mandibular thid molar retention,0.709796
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank,SBERT,8,oral surgery,0.64359
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank,SBERT,9,eruption diagnosis,0.639154
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank,SBERT,10,preoperative prediction,0.635855
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank+,SBERT,1,prediction,0.186244
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank+,SBERT,2,lower third molar eruption,0.153174
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank+,SBERT,3,panoramic radiography,0.052272
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank+,SBERT,4,third molar eruption,0.026806
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank+,SBERT,5,preoperative prediction,0.026494
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank+,SBERT,6,artificial intelligence,0.019304
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank+,SBERT,7,oral surgery,0.014967
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank+,SBERT,8,machine learning,0.01369
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank+,SBERT,9,dentistry,0.011857
+34,Prediction of Lower Third Molar Eruption in Panoramic Radiography Using Artifici,SIFRank+,SBERT,10,m3 panoramic radiological images,0.011788
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank,SBERT,1,clinically relevant oral microorganisms,0.760072
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank,SBERT,2,markedly larger inhibition zones,0.753544
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank,SBERT,3,species-specific incubation times,0.742394
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank,SBERT,4,microorganism-dependent inhibition zones,0.73459
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank,SBERT,5,additional antimicrobial effects,0.727317
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank,SBERT,6,dental infection management,0.724418
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank,SBERT,7,platelet-derived preparations,0.71345
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank,SBERT,8,different platelet concentrates,0.69049
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank,SBERT,9,antibiotic use,0.674212
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank,SBERT,10,bacterial and fungal species,0.65763
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank+,SBERT,1,vitro,0.112991
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank+,SBERT,2,different platelet concentrates,0.086311
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank+,SBERT,3,oral infections,0.02571
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank+,SBERT,4,bacterial and fungal species,0.021214
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank+,SBERT,5,antibiotic use,0.012966
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank+,SBERT,6,platelet concentrates,0.010552
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank+,SBERT,7,efforts,0.010467
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank+,SBERT,8,additional antimicrobial effects,0.009207
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank+,SBERT,9,dentistry,0.008665
+35,In Vitro Antimicrobial Potential of Different Platelet Concentrates Against Eigh,SIFRank+,SBERT,10,periodontal and oral surgery,0.007598
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank,SBERT,1,microparticle-loaded buccal patches,0.773324
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank,SBERT,2,reproducible pharmaceutical powders,0.700313
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank,SBERT,3,hot melt dispersion,0.695959
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank,SBERT,4,dry powders,0.671564
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank,SBERT,5,high loading efficacy,0.652744
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank,SBERT,6,approximately 106-425 μm,0.645799
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank,SBERT,7,systemic antibiotic therapy,0.633333
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank,SBERT,8,mucoadhesive buccal patches,0.628641
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank,SBERT,9,oral surgery,0.628509
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank,SBERT,10,viable candidates,0.623357
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank+,SBERT,1,mucoadhesive buccal patches,0.209547
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank+,SBERT,2,oral surgery,0.021673
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank+,SBERT,3,management,0.020662
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank+,SBERT,4,oral surgical procedures,0.018378
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank+,SBERT,5,patients,0.01791
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank+,SBERT,6,mronj,0.017733
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank+,SBERT,7,systemic antibiotic therapy,0.014074
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank+,SBERT,8,risk,0.011589
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank+,SBERT,9,hot melt dispersion,0.00627
+36,Mucoadhesive Buccal Patches Containing Resveratrol and/or Erythromycin-Loaded Li,SIFRank+,SBERT,10,dry powders,0.00546
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank,SBERT,1,one key objective,0.761884
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank,SBERT,2,one position,0.758183
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank,SBERT,3,multiple potential positions,0.747554
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank,SBERT,4,suboptimal guide placement,0.740068
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank,SBERT,5,guide placement,0.720329
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank,SBERT,6,tmj replacement procedures,0.708902
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank,SBERT,7,tmj replacement cases,0.693772
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank,SBERT,8,two methods,0.693148
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank,SBERT,9,even minor deviations,0.684226
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank,SBERT,10,certain procedures,0.68324
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank+,SBERT,1,implant navigation,0.206233
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank+,SBERT,2,tmj reconstruction,0.094803
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank+,SBERT,3,concept study,0.037508
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank+,SBERT,4,one key objective,0.03628
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank+,SBERT,5,temporomandibular joint replacement,0.026732
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank+,SBERT,6,drilling and osteotomy guides,0.014738
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank+,SBERT,7,accuracy,0.011379
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank+,SBERT,8,one position,0.010679
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank+,SBERT,9,multiple potential positions,0.009584
+37,Implant Navigation During TMJ Reconstruction: A Proof-of-Concept Study,SIFRank+,SBERT,10,even minor deviations,0.007519
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank,SBERT,1,unknown etiology,0.666918
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank,SBERT,2,surgical removal,0.657418
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank,SBERT,3,mandibular third molar migration,0.654717
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank,SBERT,4,surgical treatment,0.653973
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank,SBERT,5,histopathological examination,0.638689
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank,SBERT,6,close proximity,0.621872
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank,SBERT,7,surgical intervention,0.615019
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank,SBERT,8,conclusions,0.530588
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank,SBERT,9,intervention,0.530297
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank,SBERT,10,idiopathic osteosclerosis,0.48043
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank+,SBERT,1,mandibular third molar migration,0.163679
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank+,SBERT,2,idiopathic osteosclerosis,0.040036
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank+,SBERT,3,unknown etiology,0.020841
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank+,SBERT,4,dental radiographs,0.011417
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank+,SBERT,5,intervention,0.010606
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank+,SBERT,6,close proximity,0.00691
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank+,SBERT,7,enlargement,0.005692
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank+,SBERT,8,surgical intervention,0.005541
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank+,SBERT,9,surgical removal,0.005302
+38,Impacted Mandibular Third Molar Migration in the Presence of Idiopathic Osteoscl,SIFRank+,SBERT,10,histopathological examination,0.005278
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank,SBERT,1,partial flap dehiscence,0.73786
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank,SBERT,2,oral and maxillofacial surgery,0.719485
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank,SBERT,3,national defense medical college hospital,0.717766
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank,SBERT,4,flap resection,0.709534
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank,SBERT,5,soft-tissue defects,0.705312
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank,SBERT,6,tunneled island flaps,0.704353
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank,SBERT,7,satisfactory functional and esthetic outcomes,0.697134
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank,SBERT,8,three cases,0.694662
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank,SBERT,9,flap survival,0.690978
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank,SBERT,10,lip reconstruction,0.660427
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank+,SBERT,1,nasolabial flap,0.103909
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank+,SBERT,2,orofacial reconstruction,0.069031
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank+,SBERT,3,flap survival,0.020323
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank+,SBERT,4,complication rates,0.019066
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank+,SBERT,5,particular attention,0.012323
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank+,SBERT,6,reconstruction,0.01215
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank+,SBERT,7,pedicled flap,0.010194
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank+,SBERT,8,facial artery ligation,0.009355
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank+,SBERT,9,oral and maxillofacial surgery,0.008366
+39,Outcomes of Using Nasolabial Flap for Orofacial Reconstruction: A Retrospective ,SIFRank+,SBERT,10,national defense medical college hospital,0.007888
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank,SBERT,1,standardized outcome reporting,0.742272
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank,SBERT,2,permanent lingual nerve injury,0.734617
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank,SBERT,3,meta-analysis,0.724459
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank,SBERT,4,permanent lni,0.707445
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank,SBERT,5,twenty-eight studies,0.697801
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank,SBERT,6,current evidence,0.682072
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank,SBERT,7,functional sensory recovery,0.652983
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank,SBERT,8,lingual nerve injury,0.643893
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank,SBERT,9,permanent neurosensory deficits,0.637737
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank,SBERT,10,patient care,0.635353
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank+,SBERT,1,outcomes,0.168275
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank+,SBERT,2,interventions,0.092891
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank+,SBERT,3,timing,0.086446
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank+,SBERT,4,permanent lingual nerve injury,0.081624
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank+,SBERT,5,lingual nerve injury,0.025756
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank+,SBERT,6,oral and maxillofacial surgical procedures,0.017466
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank+,SBERT,7,meta-analysis,0.015749
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank+,SBERT,8,current evidence,0.013117
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank+,SBERT,9,management strategies,0.009213
+40,"Outcomes, interventions and timing in permanent lingual nerve injury: a systemat",SIFRank+,SBERT,10,prisma guidelines,0.00879
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank,SBERT,1,greater positional and angular deviations,0.736536
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank,SBERT,2,nine cohort studies,0.719847
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank,SBERT,3,greater positional deviation,0.718765
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank,SBERT,4,patient-specific solutions,0.717912
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank,SBERT,5,meta-analyses,0.700853
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank,SBERT,6,meta-analysis,0.700677
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank,SBERT,7,significantly superior outcomes,0.698848
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank,SBERT,8,key surgical metrics,0.690693
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank,SBERT,9,operative time,0.6745
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank,SBERT,10,precision improvement,0.672632
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank+,SBERT,1,maxillofacial reconstruction,0.029901
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank+,SBERT,2,meta-analysis,0.029195
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank+,SBERT,3,precise restoration,0.021604
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank+,SBERT,4,bone volume,0.018685
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank+,SBERT,5,traditional bone grafting methods,0.016238
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank+,SBERT,6,anatomical alignment,0.015036
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank+,SBERT,7,donor site morbidity,0.012236
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank+,SBERT,8,suboptimal anatomical congruence,0.011197
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank+,SBERT,9,limited availability,0.011191
+41,"Clinical, technical, and economic outcomes of 3D-printed bone substitutes in max",SIFRank+,SBERT,10,limitations,0.01016
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank,SBERT,1,"image quality, artifact extent",0.819625
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank,SBERT,2,highest image quality,0.778347
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank,SBERT,3,ground-truth implant dimensions,0.75571
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank,SBERT,4,image quality,0.750545
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank,SBERT,5,higher artifact prevalence,0.708503
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank,SBERT,6,intra-observer agreement,0.703585
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank,SBERT,7,lower diagnostic confidence,0.70314
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank,SBERT,8,soft-tissue contrast,0.689976
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank,SBERT,9,mean artifact deviations,0.689129
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank,SBERT,10,manufacturer-specific implants,0.674734
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank+,SBERT,1,postoperative mri,0.145731
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank+,SBERT,2,artifact reduction,0.034523
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank+,SBERT,3,dark bone,0.013473
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank+,SBERT,4,semac,0.010745
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank+,SBERT,5,trauma patients,0.009028
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank+,SBERT,6,"image quality, artifact extent",0.008909
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank+,SBERT,7,stir,0.008583
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank+,SBERT,8,dess,0.008519
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank+,SBERT,9,eighteen patients,0.008321
+42,Postoperative MRI in cranio-maxillofacial and oral reconstruction: A prospective,SIFRank+,SBERT,10,peri-osteosynthesis tissues,0.006013
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank,SBERT,1,ten trigeminal nerve injections,0.763613
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank,SBERT,2,additional systemic analgesic interventions,0.76322
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank,SBERT,3,contrast-enhanced ct evaluation,0.755004
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank,SBERT,4,limited intraoperative nociceptive events,0.75269
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank,SBERT,5,extensive oncologic maxillofacial surgery,0.739052
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank,SBERT,6,seven client-owned dogs,0.727591
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank,SBERT,7,adequate injectate distribution,0.693529
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank,SBERT,8,intraoperative nociceptive responses,0.685798
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank,SBERT,9,bilateral injections,0.680517
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank,SBERT,10,vivo anatomical information,0.675268
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank+,SBERT,1,contrast-enhanced ct evaluation,0.0755
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank+,SBERT,2,extensive oncologic maxillofacial surgery,0.046191
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank+,SBERT,3,client-owned dogs,0.014365
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank+,SBERT,4,ct images,0.007245
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank+,SBERT,5,intraoperative nociceptive responses,0.006998
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank+,SBERT,6,intracranial distribution,0.006722
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank+,SBERT,7,seven client-owned dogs,0.006496
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank+,SBERT,8,clinical patients,0.00647
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank+,SBERT,9,injection site,0.003778
+43,Ultrasound-guided trigeminal nerve block with contrast-enhanced CT evaluation fo,SIFRank+,SBERT,10,ten trigeminal nerve injections,0.003471
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank,SBERT,1,active or fully autonomous modalities,0.821812
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank,SBERT,2,computer-aided planning,0.810628
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank,SBERT,3,robotic-assisted technologies,0.779485
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank,SBERT,4,robotic-assisted dental implantology,0.757073
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank,SBERT,5,beijing yakebot technology co,0.752162
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank,SBERT,6,machine learning,0.751792
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank,SBERT,7,semi-active systems,0.744486
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank,SBERT,8,robotic implant surgery,0.737981
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank,SBERT,9,robotic systems,0.726203
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank,SBERT,10,traditional implant placement,0.717207
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank+,SBERT,1,robots,0.201428
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank+,SBERT,2,: a narrative review,0.07953
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank+,SBERT,3,robotic-assisted technologies,0.027839
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank+,SBERT,4,robotic implant surgery,0.014192
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank+,SBERT,5,computer-aided planning,0.013739
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank+,SBERT,6,advanced imaging,0.012338
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank+,SBERT,7,surgical precision,0.012168
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank+,SBERT,8,dental implantology,0.011932
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank+,SBERT,9,safety,0.010534
+44,Robots at the Chairside: A Narrative Review of Robotic-Assisted Surgery Revoluti,SIFRank+,SBERT,10,mechanized execution,0.01003
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank,SBERT,1,different ar and vr tools,0.787505
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank,SBERT,2,skill-intensive specialties,0.758764
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank,SBERT,3,alternative learning opportunities,0.751816
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank,SBERT,4,ar and vr training,0.730895
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank,SBERT,5,real-time feedback,0.727559
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank,SBERT,6,ar/vr technologies,0.721809
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank,SBERT,7,ar/vr tools,0.720895
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank,SBERT,8,surgical skills training,0.718363
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank,SBERT,9,patient safety questions,0.714428
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank,SBERT,10,equal or superior outcomes,0.71123
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank+,SBERT,1,virtual reality,0.13683
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank+,SBERT,2,training technologies,0.029363
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank+,SBERT,3,augmented reality,0.022322
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank+,SBERT,4,surgical training,0.016224
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank+,SBERT,5,skill-intensive specialties,0.015485
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank+,SBERT,6,oral and maxillofacial surgery,0.010508
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank+,SBERT,7,real life cases,0.010243
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank+,SBERT,8,trainees,0.009948
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank+,SBERT,9,patient safety questions,0.008405
+45,Augmented and virtual reality in dental and oral and maxillofacial surgery educa,SIFRank+,SBERT,10,dentistry,0.008243
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank,SBERT,1,cone beam computed tomography research,0.76766
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank,SBERT,2,cbct-guided technologies,0.763962
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank,SBERT,3,single-country publications,0.760644
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank,SBERT,4,clinical decision-making,0.751905
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank,SBERT,5,total and annual publication counts,0.731428
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank,SBERT,6,two main areas,0.727807
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank,SBERT,7,science (wos) database,0.719618
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank,SBERT,8,future studies,0.708107
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank,SBERT,9,cbct technology,0.703872
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank,SBERT,10,cone-beam computed tomography,0.690037
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank+,SBERT,1,understanding,0.086312
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank+,SBERT,2,trends,0.066796
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank+,SBERT,3,major topics,0.064015
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank+,SBERT,4,cone beam computed tomography research,0.059051
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank+,SBERT,5,cone-beam computed tomography,0.018159
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank+,SBERT,6,science (wos) database,0.013084
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank+,SBERT,7,cbct,0.010742
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank+,SBERT,8,citation-based metrics,0.008623
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank+,SBERT,9,total and annual publication counts,0.008605
+46,A bibliometric approach to understanding trends and major topics in cone beam co,SIFRank+,SBERT,10,document types,0.006995
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank,SBERT,1,limited surgical experience,0.757825
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank,SBERT,2,decision-making factors,0.756459
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank,SBERT,3,immediate implant placement,0.735486
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank,SBERT,4,general and specific data,0.734314
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank,SBERT,5,closed implant healing,0.728594
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank,SBERT,6,high implantological standards,0.699118
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank,SBERT,7,implant placement,0.68277
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank,SBERT,8,externally produced guides,0.681745
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank,SBERT,9,implant systems,0.669407
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank,SBERT,10,current treatment concepts,0.666431
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank+,SBERT,1,current treatment concepts,0.222144
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank+,SBERT,2,oral and maxillofacial surgery,0.071979
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank+,SBERT,3,implantology,0.062824
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank+,SBERT,4,germany,0.032396
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank+,SBERT,5,dental implantology,0.031541
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank+,SBERT,6,detailed data,0.019836
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank+,SBERT,7,omfs,0.015817
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank+,SBERT,8,decision-making factors,0.012821
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank+,SBERT,9,clinical practices,0.009814
+47,Current treatment concepts in implantology in oral and maxillofacial surgery in ,SIFRank+,SBERT,10,advanced technologies,0.009319
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank,SBERT,1,zip stitch adhesive bandage,0.739487
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank,SBERT,2,zip stitch,0.6956
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank,SBERT,3,facial wounds,0.665409
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank,SBERT,4,satisfactory results,0.643444
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank,SBERT,5,incision placement,0.630056
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank,SBERT,6,minimal scarring,0.625775
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank,SBERT,7,skin closure,0.620946
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank,SBERT,8,maxillofacial wounds,0.613631
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank,SBERT,9,widespread acceptance,0.603729
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank,SBERT,10,favourable outcomes,0.594481
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank+,SBERT,1,zip stitch adhesive bandage,0.246496
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank+,SBERT,2,maxillofacial wounds,0.076704
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank+,SBERT,3,zip stitch,0.046373
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank+,SBERT,4,widespread acceptance,0.02236
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank+,SBERT,5,healthcare professionals,0.019363
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank+,SBERT,6,adhesive bandages,0.014593
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank+,SBERT,7,maxillofacial surgery,0.011153
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank+,SBERT,8,maxillofacial region,0.008513
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank+,SBERT,9,facial wounds,0.007079
+48,Zip Stitch Adhesive Bandage for Maxillofacial Wounds - An Evaluative Study,SIFRank+,SBERT,10,incision placement,0.006364
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank,SBERT,1,normal disc position,0.746244
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank,SBERT,2,temporomandibular joint internal derangement,0.744504
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank,SBERT,3,internal tmj disorders,0.73934
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank,SBERT,4,anterior disc displacement,0.711109
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank,SBERT,5,bilateral oa,0.698969
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank,SBERT,6,bilateral joint pathology,0.679852
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank,SBERT,7,internal disorders,0.678572
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank,SBERT,8,joint trauma,0.665213
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank,SBERT,9,unilateral oa,0.655008
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank,SBERT,10,magnetic resonance imaging,0.651972
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank+,SBERT,1,temporomandibular joint internal derangement,0.106358
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank+,SBERT,2,prospective study,0.039138
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank+,SBERT,3,osteoarthritis - a,0.017037
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank+,SBERT,4,various signs,0.01585
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank+,SBERT,5,maxillofacial surgery,0.015385
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank+,SBERT,6,modern gnathology,0.014719
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank+,SBERT,7,tmj oa,0.014429
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank+,SBERT,8,internal derangement,0.012864
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank+,SBERT,9,tmj condition,0.009066
+49,Magnetic Resonance Imaging for Temporomandibular Joint Internal Derangement and ,SIFRank+,SBERT,10,appropriate management,0.00844

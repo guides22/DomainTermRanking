@@ -1,0 +1,521 @@
+doc_id,title,method,backend,rank,keyphrase,score
+0,,SIFRank,SBERT,1,live coding techniques,0.680362
+0,,SIFRank,SBERT,2,north america,0.675334
+0,,SIFRank,SBERT,3,europe,0.596803
+0,,SIFRank,SBERT,4,music,0.593897
+0,,SIFRank,SBERT,5,australia,0.583472
+0,,SIFRank,SBERT,6,asia,0.562773
+0,,SIFRank,SBERT,7,people,0.556042
+0,,SIFRank,SBERT,8,algoraves,0.476919
+0,,SIFRank,SBERT,9,rave,0.465034
+0,,SIFRank,SBERT,10,algorithms,0.41896
+0,,SIFRank+,SBERT,1,rave,0.033217
+0,,SIFRank+,SBERT,2,people,0.027802
+0,,SIFRank+,SBERT,3,music,0.025822
+0,,SIFRank+,SBERT,4,live coding techniques,0.022679
+0,,SIFRank+,SBERT,5,algorithms,0.016114
+0,,SIFRank+,SBERT,6,europe,0.01126
+0,,SIFRank+,SBERT,7,north america,0.01072
+0,,SIFRank+,SBERT,8,asia,0.010232
+0,,SIFRank+,SBERT,9,algoraves,0.010147
+0,,SIFRank+,SBERT,10,australia,0.009565
+1,,SIFRank,SBERT,1,electronic musicians,0.745781
+1,,SIFRank,SBERT,2,visual artists,0.720755
+1,,SIFRank,SBERT,3,algorave,0.489758
+1,,SIFRank+,SBERT,1,algorave,0.163253
+1,,SIFRank+,SBERT,2,electronic musicians,0.046611
+1,,SIFRank+,SBERT,3,visual artists,0.037934
+2,,SIFRank,SBERT,1,work,0.675451
+2,,SIFRank+,SBERT,1,work,0.037525
+3,,SIFRank,SBERT,1,synchronous procedure calls,0.795397
+3,,SIFRank,SBERT,2,prior calls,0.77801
+3,,SIFRank,SBERT,3,procedure calls,0.750227
+3,,SIFRank,SBERT,4,one thread,0.708779
+3,,SIFRank,SBERT,5,apcs,0.393336
+3,,SIFRank+,SBERT,1,procedure calls,0.250076
+3,,SIFRank+,SBERT,2,synchronous procedure calls,0.072309
+3,,SIFRank+,SBERT,3,one thread,0.041693
+3,,SIFRank+,SBERT,4,prior calls,0.017289
+3,,SIFRank+,SBERT,5,apcs,0.010351
+4,,SIFRank,SBERT,1,potentially other resources,0.757595
+4,,SIFRank,SBERT,2,example,0.576068
+4,,SIFRank,SBERT,3,memory,0.550815
+4,,SIFRank+,SBERT,1,example,0.144017
+4,,SIFRank+,SBERT,2,potentially other resources,0.018038
+4,,SIFRank+,SBERT,3,memory,0.01377
+5,,SIFRank,SBERT,1,"(e.g., user input",0.692807
+5,,SIFRank,SBERT,2,memory,0.52957
+5,,SIFRank+,SBERT,1,memory,0.033098
+5,,SIFRank+,SBERT,2,"(e.g., user input",0.018725
+6,,SIFRank,SBERT,1,active state,0.719036
+6,,SIFRank,SBERT,2,input data,0.610055
+6,,SIFRank+,SBERT,1,active state,0.026631
+6,,SIFRank+,SBERT,2,input data,0.026524
+7,,SIFRank,SBERT,1,two ports,0.775625
+7,,SIFRank,SBERT,2,many ports,0.722548
+7,,SIFRank,SBERT,3,input,0.695656
+7,,SIFRank,SBERT,4,actor,0.496601
+7,,SIFRank,SBERT,5,dataflow programming,0.37844
+7,,SIFRank+,SBERT,1,actor,0.055178
+7,,SIFRank+,SBERT,2,two ports,0.048477
+7,,SIFRank+,SBERT,3,input,0.028986
+7,,SIFRank+,SBERT,4,many ports,0.017623
+7,,SIFRank+,SBERT,5,dataflow programming,0.009959
+8,,SIFRank,SBERT,1,windows,0.616129
+8,,SIFRank+,SBERT,1,windows,0.154032
+9,,SIFRank,SBERT,1,asynchronous input/output,0.73244
+9,,SIFRank,SBERT,2,network devices,0.639535
+9,,SIFRank,SBERT,3,programs,0.592811
+9,,SIFRank,SBERT,4,commands,0.533003
+9,,SIFRank,SBERT,5,storage,0.511968
+9,,SIFRank,SBERT,6,asynchrony,0.496197
+9,,SIFRank,SBERT,7,concurrency,0.447896
+9,,SIFRank+,SBERT,1,asynchronous input/output,0.244147
+9,,SIFRank+,SBERT,2,asynchrony,0.03308
+9,,SIFRank+,SBERT,3,programs,0.031201
+9,,SIFRank+,SBERT,4,network devices,0.025581
+9,,SIFRank+,SBERT,5,commands,0.025381
+9,,SIFRank+,SBERT,6,storage,0.022259
+9,,SIFRank+,SBERT,7,concurrency,0.009953
+10,,SIFRank,SBERT,1,special syntax,0.660046
+10,,SIFRank,SBERT,2,future,0.621417
+10,,SIFRank,SBERT,3,promise,0.563757
+10,,SIFRank,SBERT,4,asynchrony,0.511068
+10,,SIFRank,SBERT,5,cilk,0.472858
+10,,SIFRank+,SBERT,1,asynchrony,0.056785
+10,,SIFRank+,SBERT,2,future,0.036554
+10,,SIFRank+,SBERT,3,promise,0.01566
+10,,SIFRank+,SBERT,4,special syntax,0.01347
+10,,SIFRank+,SBERT,5,cilk,0.01028
+11,,SIFRank,SBERT,1,examples,0.762753
+11,,SIFRank,SBERT,2,asynchrony,0.581502
+11,,SIFRank+,SBERT,1,examples,0.254251
+11,,SIFRank+,SBERT,2,asynchrony,0.1163
+12,,SIFRank,SBERT,1,* threads,1.0
+12,,SIFRank+,SBERT,1,* threads,0.333333
+13,,SIFRank,SBERT,1,web technologies,0.831324
+13,,SIFRank,SBERT,2,ajax,0.605122
+13,,SIFRank+,SBERT,1,ajax,0.15128
+13,,SIFRank+,SBERT,2,web technologies,0.092369
+14,,SIFRank,SBERT,1,threads,0.654367
+14,,SIFRank,SBERT,2,thread starvation,0.586569
+14,,SIFRank,SBERT,3,clients,0.554111
+14,,SIFRank,SBERT,4,case,0.507692
+14,,SIFRank+,SBERT,1,threads,0.01722
+14,,SIFRank+,SBERT,2,thread starvation,0.007242
+14,,SIFRank+,SBERT,3,clients,0.006597
+14,,SIFRank+,SBERT,4,case,0.006426
+15,,SIFRank,SBERT,1,new probabilistic programs,0.79983
+15,,SIFRank,SBERT,2,human developers,0.751914
+15,,SIFRank,SBERT,3,probabilistic programming,0.589737
+15,,SIFRank+,SBERT,1,probabilistic programming,0.147434
+15,,SIFRank+,SBERT,2,human developers,0.107416
+15,,SIFRank+,SBERT,3,new probabilistic programs,0.072712
+16,,SIFRank,SBERT,1,smaller probabilistic programs,0.69044
+16,,SIFRank,SBERT,2,bayesian program synthesis,0.678199
+16,,SIFRank,SBERT,3,modular component programs,0.677511
+16,,SIFRank,SBERT,4,new programs,0.669069
+16,,SIFRank,SBERT,5,automatic synthesis,0.656781
+16,,SIFRank,SBERT,6,probabilistic programs,0.647213
+16,,SIFRank,SBERT,7,probabilistic inference,0.627576
+16,,SIFRank,SBERT,8,inference,0.590527
+16,,SIFRank,SBERT,9,probabilistic programming,0.544146
+16,,SIFRank,SBERT,10,priors,0.53665
+16,,SIFRank+,SBERT,1,bayesian program synthesis,0.226066
+16,,SIFRank+,SBERT,2,probabilistic programming,0.034009
+16,,SIFRank+,SBERT,3,probabilistic programs,0.029419
+16,,SIFRank+,SBERT,4,priors,0.018505
+16,,SIFRank+,SBERT,5,automatic synthesis,0.01642
+16,,SIFRank+,SBERT,6,new programs,0.01556
+16,,SIFRank+,SBERT,7,probabilistic inference,0.013643
+16,,SIFRank+,SBERT,8,modular component programs,0.012318
+16,,SIFRank+,SBERT,9,smaller probabilistic programs,0.009863
+16,,SIFRank+,SBERT,10,inference,0.009227
+17,,SIFRank,SBERT,1,logical constraints,0.702226
+17,,SIFRank,SBERT,2,possible programs,0.643847
+17,,SIFRank,SBERT,3,bayesian program synthesis,0.627751
+17,,SIFRank,SBERT,4,traditional program synthesis,0.594511
+17,,SIFRank,SBERT,5,programs,0.582095
+17,,SIFRank,SBERT,6,instance,0.567147
+17,,SIFRank,SBERT,7,example,0.563486
+17,,SIFRank,SBERT,8,verification,0.560174
+17,,SIFRank,SBERT,9,demonstration,0.541009
+17,,SIFRank+,SBERT,1,example,0.026833
+17,,SIFRank+,SBERT,2,demonstration,0.02164
+17,,SIFRank+,SBERT,3,traditional program synthesis,0.013512
+17,,SIFRank+,SBERT,4,logical constraints,0.01325
+17,,SIFRank+,SBERT,5,instance,0.011574
+17,,SIFRank+,SBERT,6,verification,0.010984
+17,,SIFRank+,SBERT,7,possible programs,0.010731
+17,,SIFRank+,SBERT,8,bayesian program synthesis,0.008599
+17,,SIFRank+,SBERT,9,programs,0.006327
+18,,SIFRank,SBERT,1,handwritten characters,0.725607
+18,,SIFRank,SBERT,2,bayesian program learning,0.677734
+18,,SIFRank,SBERT,3,probabilistic program components,0.653614
+18,,SIFRank,SBERT,4,bayesian program synthesis,0.649926
+18,,SIFRank,SBERT,5,order,0.609258
+18,,SIFRank,SBERT,6,data,0.509355
+18,,SIFRank+,SBERT,1,bayesian program synthesis,0.129985
+18,,SIFRank+,SBERT,2,bayesian program learning,0.045182
+18,,SIFRank+,SBERT,3,probabilistic program components,0.032681
+18,,SIFRank+,SBERT,4,handwritten characters,0.017276
+18,,SIFRank+,SBERT,5,data,0.015917
+18,,SIFRank+,SBERT,6,order,0.015622
+20,,SIFRank,SBERT,1,two possible values,0.787504
+20,,SIFRank,SBERT,2,one or more bits,0.784384
+20,,SIFRank,SBERT,3,truth bit,0.76937
+20,,SIFRank,SBERT,4,truth flag,0.723851
+20,,SIFRank,SBERT,5,computer science,0.600509
+20,,SIFRank+,SBERT,1,truth bit,0.059182
+20,,SIFRank+,SBERT,2,truth flag,0.040214
+20,,SIFRank+,SBERT,3,computer science,0.02402
+20,,SIFRank+,SBERT,4,one or more bits,0.023769
+20,,SIFRank+,SBERT,5,two possible values,0.017898
+21,,SIFRank,SBERT,1,one or more bytes,0.775032
+21,,SIFRank,SBERT,2,packed representations,0.720967
+21,,SIFRank,SBERT,3,bit fields,0.709788
+21,,SIFRank,SBERT,4,sparse representations,0.69094
+21,,SIFRank,SBERT,5,software,0.508287
+21,,SIFRank,SBERT,6,width,0.488112
+21,,SIFRank,SBERT,7,variables,0.462257
+21,,SIFRank+,SBERT,1,bit fields,0.041752
+21,,SIFRank+,SBERT,2,sparse representations,0.034547
+21,,SIFRank+,SBERT,3,one or more bytes,0.025001
+21,,SIFRank+,SBERT,4,software,0.018825
+21,,SIFRank+,SBERT,5,packed representations,0.018486
+21,,SIFRank+,SBERT,6,variables,0.01594
+21,,SIFRank+,SBERT,7,width,0.013559
+22,,SIFRank,SBERT,1,single or multiple bits,0.836928
+22,,SIFRank,SBERT,2,one byte,0.667573
+22,,SIFRank,SBERT,3,bitwise operations,0.666734
+22,,SIFRank,SBERT,4,combination,0.661411
+22,,SIFRank,SBERT,5,compiler intrinsic functions,0.609303
+22,,SIFRank,SBERT,6,truth indicators,0.593745
+22,,SIFRank,SBERT,7,testing,0.525316
+22,,SIFRank,SBERT,8,conditions,0.520122
+22,,SIFRank,SBERT,9,advancements,0.466481
+22,,SIFRank+,SBERT,1,single or multiple bits,0.069744
+22,,SIFRank+,SBERT,2,testing,0.052532
+22,,SIFRank+,SBERT,3,combination,0.038907
+22,,SIFRank+,SBERT,4,truth indicators,0.028274
+22,,SIFRank+,SBERT,5,conditions,0.016778
+22,,SIFRank+,SBERT,6,one byte,0.015895
+22,,SIFRank+,SBERT,7,bitwise operations,0.014816
+22,,SIFRank+,SBERT,8,compiler intrinsic functions,0.012186
+22,,SIFRank+,SBERT,9,advancements,0.009718
+23,,SIFRank,SBERT,1,multiple nested conditional statements,0.758133
+23,,SIFRank,SBERT,2,certain conditions,0.719779
+23,,SIFRank,SBERT,3,decision tables,0.672318
+23,,SIFRank,SBERT,4,various combinations,0.645529
+23,,SIFRank,SBERT,5,conditions,0.551984
+23,,SIFRank,SBERT,6,reference,0.545707
+23,,SIFRank,SBERT,7,memory,0.53173
+23,,SIFRank,SBERT,8,programs,0.521254
+23,,SIFRank,SBERT,9,mapping,0.502301
+23,,SIFRank,SBERT,10,flags,0.482647
+23,,SIFRank+,SBERT,1,programs,0.104251
+23,,SIFRank+,SBERT,2,certain conditions,0.055368
+23,,SIFRank+,SBERT,3,flags,0.043877
+23,,SIFRank+,SBERT,4,multiple nested conditional statements,0.036102
+23,,SIFRank+,SBERT,5,various combinations,0.011737
+23,,SIFRank+,SBERT,6,conditions,0.009517
+23,,SIFRank+,SBERT,7,reference,0.008946
+23,,SIFRank+,SBERT,8,decision tables,0.008619
+23,,SIFRank+,SBERT,9,mapping,0.00598
+23,,SIFRank+,SBERT,10,memory,0.005908
+24,,SIFRank,SBERT,1,thumb|right|a cheat sheet,0.768499
+24,,SIFRank,SBERT,2,(hand)|palm,0.669929
+24,,SIFRank+,SBERT,1,thumb|right|a cheat sheet,0.256166
+24,,SIFRank+,SBERT,2,(hand)|palm,0.024812
+25,,SIFRank,SBERT,1,front,0.639252
+25,,SIFRank+,SBERT,1,front,0.106542
+26,,SIFRank,SBERT,1,higher education,0.736994
+26,,SIFRank,SBERT,2,cheat sheets,0.709406
+26,,SIFRank,SBERT,3,job aid,0.673831
+26,,SIFRank,SBERT,4,quick reference,0.653063
+26,,SIFRank,SBERT,5,exam,0.644046
+26,,SIFRank,SBERT,6,notes,0.628507
+26,,SIFRank,SBERT,7,rote memorization,0.608209
+26,,SIFRank,SBERT,8,exams,0.58641
+26,,SIFRank,SBERT,9,cheat,0.585972
+26,,SIFRank,SBERT,10,crib sheet,0.581623
+26,,SIFRank+,SBERT,1,(also ''cheatsheet,0.050918
+26,,SIFRank+,SBERT,2,crib sheet,0.034213
+26,,SIFRank+,SBERT,3,job aid,0.028076
+26,,SIFRank+,SBERT,4,notes,0.017957
+26,,SIFRank+,SBERT,5,cheat sheets,0.017303
+26,,SIFRank+,SBERT,6,quick reference,0.017186
+26,,SIFRank+,SBERT,7,higher education,0.012707
+26,,SIFRank+,SBERT,8,cheat,0.012467
+26,,SIFRank+,SBERT,9,exam,0.012385
+26,,SIFRank+,SBERT,10,vocational training,0.009412
+27,,SIFRank,SBERT,1,many computer applications,0.710841
+27,,SIFRank,SBERT,2,specific tasks,0.70076
+27,,SIFRank,SBERT,3,two windows,0.693431
+27,,SIFRank,SBERT,4,job aid,0.672142
+27,,SIFRank,SBERT,5,example,0.600059
+27,,SIFRank,SBERT,6,terms,0.572541
+27,,SIFRank,SBERT,7,signs,0.543037
+27,,SIFRank,SBERT,8,crib sheets,0.541192
+27,,SIFRank,SBERT,9,keystrokes,0.535111
+27,,SIFRank,SBERT,10,commands,0.519766
+27,,SIFRank+,SBERT,1,job aid,0.056012
+27,,SIFRank+,SBERT,2,terms,0.022021
+27,,SIFRank+,SBERT,3,commands,0.018563
+27,,SIFRank+,SBERT,4,signs,0.017517
+27,,SIFRank+,SBERT,5,/symbols,0.014068
+27,,SIFRank+,SBERT,6,many computer applications,0.012694
+27,,SIFRank+,SBERT,7,example,0.009837
+27,,SIFRank+,SBERT,8,specific tasks,0.008759
+27,,SIFRank+,SBERT,9,crib sheets,0.008456
+27,,SIFRank+,SBERT,10,keystrokes,0.00733
+28,,SIFRank,SBERT,1,computer programming,0.660251
+28,,SIFRank,SBERT,2,infix notation,0.65577
+28,,SIFRank,SBERT,3,computers,0.591105
+28,,SIFRank,SBERT,4,tasks,0.571559
+28,,SIFRank,SBERT,5,programmers,0.512454
+28,,SIFRank,SBERT,6,sequences,0.509006
+28,,SIFRank,SBERT,7,calculations,0.503548
+28,,SIFRank,SBERT,8,instructions,0.465102
+28,,SIFRank+,SBERT,1,computer programming,0.220084
+28,,SIFRank+,SBERT,2,sequences,0.02679
+28,,SIFRank+,SBERT,3,instructions,0.022148
+28,,SIFRank+,SBERT,4,computers,0.021893
+28,,SIFRank+,SBERT,5,tasks,0.017861
+28,,SIFRank+,SBERT,6,infix notation,0.014573
+28,,SIFRank+,SBERT,7,programmers,0.014235
+28,,SIFRank+,SBERT,8,calculations,0.012911
+29,,SIFRank,SBERT,1,punched cards,0.880557
+29,,SIFRank,SBERT,2,cards,0.722198
+29,,SIFRank,SBERT,3,programs,0.490941
+29,,SIFRank+,SBERT,1,programs,0.163647
+29,,SIFRank+,SBERT,2,punched cards,0.11007
+29,,SIFRank+,SBERT,3,cards,0.060183
+30,,SIFRank,SBERT,1,development,0.512823
+30,,SIFRank+,SBERT,1,development,0.07326
+31,,SIFRank,SBERT,1,logic errors,0.730276
+31,,SIFRank,SBERT,2,programming mistakes,0.720067
+31,,SIFRank,SBERT,3,mistakes,0.700386
+31,,SIFRank,SBERT,4,conceptual correctness,0.662129
+31,,SIFRank,SBERT,5,resource management,0.640422
+31,,SIFRank,SBERT,6,*reliability,0.490793
+31,,SIFRank,SBERT,7,division,0.487065
+31,,SIFRank,SBERT,8,algorithms,0.464404
+31,,SIFRank,SBERT,9,buffer,0.426665
+31,,SIFRank,SBERT,10,minimization,0.379224
+31,,SIFRank+,SBERT,1,*reliability,0.163598
+31,,SIFRank+,SBERT,2,conceptual correctness,0.034849
+31,,SIFRank+,SBERT,3,programming mistakes,0.027695
+31,,SIFRank+,SBERT,4,mistakes,0.022593
+31,,SIFRank+,SBERT,5,algorithms,0.021109
+31,,SIFRank+,SBERT,6,resource management,0.019407
+31,,SIFRank+,SBERT,7,logic errors,0.016228
+31,,SIFRank+,SBERT,8,minimization,0.015801
+31,,SIFRank+,SBERT,9,buffer,0.011228
+31,,SIFRank+,SBERT,10,division,0.009741
+32,,SIFRank,SBERT,1,unexpected power outages,0.785237
+32,,SIFRank,SBERT,2,operating system services,0.728534
+32,,SIFRank,SBERT,3,problems,0.698079
+32,,SIFRank,SBERT,4,user error,0.671522
+32,,SIFRank,SBERT,5,situations,0.618645
+32,,SIFRank,SBERT,6,errors,0.597652
+32,,SIFRank,SBERT,7,network connections,0.586431
+32,,SIFRank,SBERT,8,memory,0.517972
+32,,SIFRank,SBERT,9,*robustness,0.43082
+32,,SIFRank,SBERT,10,unavailability,0.418646
+32,,SIFRank+,SBERT,1,*robustness,0.143607
+32,,SIFRank+,SBERT,2,problems,0.063462
+32,,SIFRank+,SBERT,3,errors,0.042689
+32,,SIFRank+,SBERT,4,situations,0.02812
+32,,SIFRank+,SBERT,5,operating system services,0.018213
+32,,SIFRank+,SBERT,6,unexpected power outages,0.015101
+32,,SIFRank+,SBERT,7,user error,0.01399
+32,,SIFRank+,SBERT,8,memory,0.013631
+32,,SIFRank+,SBERT,9,unavailability,0.013083
+32,,SIFRank+,SBERT,10,network connections,0.013032
+33,,SIFRank,SBERT,1,even unanticipated purposes,0.770182
+33,,SIFRank,SBERT,2,sometimes hardware elements,0.676484
+33,,SIFRank,SBERT,3,*usability,0.524168
+33,,SIFRank,SBERT,4,completeness,0.463785
+33,,SIFRank,SBERT,5,cohesiveness,0.407708
+33,,SIFRank,SBERT,6,intuitiveness,0.405104
+33,,SIFRank+,SBERT,1,*usability,0.174723
+33,,SIFRank+,SBERT,2,even unanticipated purposes,0.025673
+33,,SIFRank+,SBERT,3,sometimes hardware elements,0.011466
+33,,SIFRank+,SBERT,4,completeness,0.006441
+33,,SIFRank+,SBERT,5,intuitiveness,0.006046
+33,,SIFRank+,SBERT,6,cohesiveness,0.005909
+34,,SIFRank,SBERT,1,hardware and operating system resources,0.841411
+34,,SIFRank,SBERT,2,platform-specific compilers,0.7997
+34,,SIFRank,SBERT,3,sometimes libraries,0.627102
+34,,SIFRank,SBERT,4,differences,0.580796
+34,,SIFRank,SBERT,5,*portability,0.507591
+34,,SIFRank,SBERT,6,behavior,0.492764
+34,,SIFRank+,SBERT,1,*portability,0.169197
+34,,SIFRank+,SBERT,2,differences,0.0363
+34,,SIFRank+,SBERT,3,hardware and operating system resources,0.03005
+34,,SIFRank+,SBERT,4,platform-specific compilers,0.017385
+34,,SIFRank+,SBERT,5,behavior,0.014079
+34,,SIFRank+,SBERT,6,sometimes libraries,0.01206
+35,,SIFRank,SBERT,1,new environments,0.695231
+35,,SIFRank,SBERT,2,good practices,0.675009
+35,,SIFRank,SBERT,3,security holes,0.647834
+35,,SIFRank,SBERT,4,initial development,0.578398
+35,,SIFRank,SBERT,5,bugs,0.544569
+35,,SIFRank+,SBERT,1,bugs,0.136142
+35,,SIFRank+,SBERT,2,security holes,0.107972
+35,,SIFRank+,SBERT,3,new environments,0.053479
+35,,SIFRank+,SBERT,4,good practices,0.042188
+35,,SIFRank+,SBERT,5,initial development,0.030442
+36,,SIFRank,SBERT,1,efficient use,0.791787
+36,,SIFRank,SBERT,2,slow devices,0.769679
+36,,SIFRank,SBERT,3,resource usage,0.716285
+36,,SIFRank,SBERT,4,system resources,0.71432
+36,,SIFRank,SBERT,5,*efficiency/performance,0.701995
+36,,SIFRank,SBERT,6,performance,0.684628
+36,,SIFRank,SBERT,7,even user interaction,0.679252
+36,,SIFRank,SBERT,8,programmer time,0.675521
+36,,SIFRank,SBERT,9,memory space,0.663824
+36,,SIFRank,SBERT,10,speed,0.662065
+36,,SIFRank+,SBERT,1,*efficiency/performance,0.233998
+36,,SIFRank+,SBERT,2,system resources,0.071432
+36,,SIFRank+,SBERT,3,measure,0.052871
+36,,SIFRank+,SBERT,4,slow devices,0.034985
+36,,SIFRank+,SBERT,5,memory space,0.034938
+36,,SIFRank+,SBERT,6,network,0.020008
+36,,SIFRank+,SBERT,7,even user interaction,0.019978
+36,,SIFRank+,SBERT,8,disks,0.017918
+36,,SIFRank+,SBERT,9,careful management,0.013802
+36,,SIFRank+,SBERT,10,resources,0.011534
+37,,SIFRank,SBERT,1,automated tests,0.742873
+37,,SIFRank,SBERT,2,fitness functions,0.645298
+37,,SIFRank+,SBERT,1,automated tests,0.185718
+37,,SIFRank+,SBERT,2,fitness functions,0.092185
+38,,SIFRank,SBERT,1,control flow,0.650697
+38,,SIFRank,SBERT,2,quality,0.612797
+38,,SIFRank,SBERT,3,readability,0.596059
+38,,SIFRank,SBERT,4,source code,0.585072
+38,,SIFRank,SBERT,5,usability,0.573266
+38,,SIFRank,SBERT,6,computer programming,0.57275
+38,,SIFRank,SBERT,7,operation,0.517386
+38,,SIFRank,SBERT,8,portability,0.516426
+38,,SIFRank+,SBERT,1,computer programming,0.143187
+38,,SIFRank+,SBERT,2,readability,0.085151
+38,,SIFRank+,SBERT,3,control flow,0.029577
+38,,SIFRank+,SBERT,4,source code,0.020895
+38,,SIFRank+,SBERT,5,operation,0.019899
+38,,SIFRank+,SBERT,6,quality,0.017022
+38,,SIFRank+,SBERT,7,usability,0.013649
+38,,SIFRank+,SBERT,8,portability,0.012911
+39,,SIFRank,SBERT,1,new source code,0.761316
+39,,SIFRank,SBERT,2,reading,0.58933
+39,,SIFRank,SBERT,3,unreadable code,0.566754
+39,,SIFRank,SBERT,4,bugs,0.512918
+39,,SIFRank,SBERT,5,readability,0.478519
+39,,SIFRank,SBERT,6,programmers,0.461804
+39,,SIFRank,SBERT,7,inefficiencies,0.426064
+39,,SIFRank+,SBERT,1,readability,0.159506
+39,,SIFRank+,SBERT,2,programmers,0.065972
+39,,SIFRank+,SBERT,3,reading,0.042095
+39,,SIFRank+,SBERT,4,new source code,0.024559
+39,,SIFRank+,SBERT,5,unreadable code,0.016193
+39,,SIFRank+,SBERT,6,bugs,0.012823
+39,,SIFRank+,SBERT,7,inefficiencies,0.010144
+40,,SIFRank,SBERT,1,many factors,0.672104
+40,,SIFRank,SBERT,2,readability,0.495011
+40,,SIFRank+,SBERT,1,readability,0.049501
+40,,SIFRank+,SBERT,2,many factors,0.03055
+41,,SIFRank,SBERT,1,*different indent styles,0.912402
+41,,SIFRank,SBERT,2,whitespace,0.716406
+41,,SIFRank+,SBERT,1,*different indent styles,0.304134
+41,,SIFRank+,SBERT,2,whitespace,0.089551
+42,,SIFRank,SBERT,1,*comments,1.0
+42,,SIFRank+,SBERT,1,*comments,0.333333
+43,,SIFRank,SBERT,1,*decomposition,1.0
+43,,SIFRank+,SBERT,1,*decomposition,0.333333
+44,,SIFRank,SBERT,1,classes,0.692018
+44,,SIFRank,SBERT,2,objects,0.645058
+44,,SIFRank,SBERT,3,conventions,0.589842
+44,,SIFRank,SBERT,4,procedures,0.56886
+44,,SIFRank,SBERT,5,variables,0.552497
+44,,SIFRank,SBERT,6,functions,0.508535
+44,,SIFRank+,SBERT,1,conventions,0.117968
+44,,SIFRank+,SBERT,2,objects,0.092151
+44,,SIFRank+,SBERT,3,classes,0.053232
+44,,SIFRank+,SBERT,4,variables,0.050227
+44,,SIFRank+,SBERT,5,functions,0.033902
+44,,SIFRank+,SBERT,6,procedures,0.033462
+45,,SIFRank,SBERT,1,line breaks,0.700698
+45,,SIFRank,SBERT,2,color highlighting,0.64275
+45,,SIFRank,SBERT,3,skills,0.612494
+45,,SIFRank,SBERT,4,indents,0.518018
+45,,SIFRank+,SBERT,1,line breaks,0.0539
+45,,SIFRank+,SBERT,2,indents,0.047093
+45,,SIFRank+,SBERT,3,color highlighting,0.040172
+45,,SIFRank+,SBERT,4,skills,0.014583
+46,,SIFRank,SBERT,1,non-traditional approaches,0.72699
+46,,SIFRank,SBERT,2,various visual programming languages,0.725214
+46,,SIFRank,SBERT,3,integrated development environments,0.715678
+46,,SIFRank,SBERT,4,readability concerns,0.678301
+46,,SIFRank,SBERT,5,code structure,0.617934
+46,,SIFRank,SBERT,6,ides,0.538699
+46,,SIFRank,SBERT,7,techniques,0.528789
+46,,SIFRank,SBERT,8,code refactoring,0.514578
+46,,SIFRank,SBERT,9,readability,0.459054
+46,,SIFRank,SBERT,10,display,0.403851
+46,,SIFRank+,SBERT,1,various visual programming languages,0.241738
+46,,SIFRank+,SBERT,2,readability concerns,0.042394
+46,,SIFRank+,SBERT,3,non-traditional approaches,0.03635
+46,,SIFRank+,SBERT,4,code structure,0.024717
+46,,SIFRank+,SBERT,5,integrated development environments,0.023856
+46,,SIFRank+,SBERT,6,ides,0.015844
+46,,SIFRank+,SBERT,7,display,0.014423
+46,,SIFRank+,SBERT,8,techniques,0.012297
+46,,SIFRank+,SBERT,9,code refactoring,0.011435
+46,,SIFRank+,SBERT,10,readability,0.009368
+47,,SIFRank,SBERT,1,well-established algorithms,0.701462
+47,,SIFRank,SBERT,2,execution time,0.691801
+47,,SIFRank,SBERT,3,resource use,0.677805
+47,,SIFRank,SBERT,4,big o notation,0.660834
+47,,SIFRank,SBERT,5,expert programmers,0.648654
+47,,SIFRank,SBERT,6,computer programming,0.633789
+47,,SIFRank,SBERT,7,problems,0.606875
+47,,SIFRank,SBERT,8,terms,0.564457
+47,,SIFRank,SBERT,9,memory consumption,0.550331
+47,,SIFRank,SBERT,10,orders,0.537963
+47,,SIFRank+,SBERT,1,computer programming,0.057617
+47,,SIFRank+,SBERT,2,problems,0.021674
+47,,SIFRank+,SBERT,3,big o notation,0.015734
+47,,SIFRank+,SBERT,4,algorithms,0.015173
+47,,SIFRank+,SBERT,5,orders,0.014157
+47,,SIFRank+,SBERT,6,resource use,0.014121
+47,,SIFRank+,SBERT,7,execution time,0.013053
+47,,SIFRank+,SBERT,8,memory consumption,0.009827
+47,,SIFRank+,SBERT,9,expert programmers,0.009539
+47,,SIFRank+,SBERT,10,terms,0.009408
+48,,SIFRank,SBERT,1,use case analysis,0.786295
+48,,SIFRank,SBERT,2,one approach,0.776922
+48,,SIFRank,SBERT,3,many approaches,0.755814
+48,,SIFRank,SBERT,4,different approaches,0.713881
+48,,SIFRank,SBERT,5,many programmers,0.702895
+48,,SIFRank,SBERT,6,failure elimination,0.682889
+48,,SIFRank,SBERT,7,short cycles,0.679563
+48,,SIFRank,SBERT,8,formal software development,0.678319
+48,,SIFRank,SBERT,9,requirements analysis,0.637389
+48,,SIFRank,SBERT,10,value modeling,0.621817
+48,,SIFRank+,SBERT,1,requirements analysis,0.04903
+48,,SIFRank+,SBERT,2,value modeling,0.02961
+48,,SIFRank+,SBERT,3,failure elimination,0.025292
+48,,SIFRank+,SBERT,4,implementation,0.02019
+48,,SIFRank+,SBERT,5,different approaches,0.018786
+48,,SIFRank+,SBERT,6,one approach,0.01689
+48,,SIFRank+,SBERT,7,use case analysis,0.014836
+48,,SIFRank+,SBERT,8,debugging,0.012519
+48,,SIFRank+,SBERT,9,many programmers,0.012331
+48,,SIFRank+,SBERT,10,analysis,0.011574
+49,,SIFRank,SBERT,1,design (mda,0.817358
+49,,SIFRank,SBERT,2,object-oriented analysis,0.732651
+49,,SIFRank,SBERT,3,popular modeling techniques,0.685066
+49,,SIFRank+,SBERT,1,popular modeling techniques,0.228355
+49,,SIFRank+,SBERT,2,object-oriented analysis,0.104664
+49,,SIFRank+,SBERT,3,design (mda,0.068113
