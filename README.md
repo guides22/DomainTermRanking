@@ -89,35 +89,35 @@ Paths are resolved relative to the **Jupyter kernel's working directory**. The e
 
 Dependency versions are not completely pinned for Hybrid2 or SPLADE. SIFRank uses a historical software stack that may be difficult to reproduce on modern systems. **The revised notebooks have been checked for structure and syntax but have not been fully re-executed end to end in a clean environment.** The saved experimental results come from the original project work, not from a new verified execution of the revised notebooks.
 
-## Selected experimental outputs
+## Experimental results and observations
 
-The original experiments generated **ranked terms and scores**, visualized as plots or saved as CSV files. These outputs are exploratory examples, **not precision / recall / F1 measurements**, and scores from different algorithms should not be treated as directly comparable accuracy metrics.
+The experiments produced **keyphrase rankings and associated scores** for specialized scientific corpora. All original figures and CSV outputs are preserved in [`results/`](results/), including intermediate rankings and configurations that produced less informative terms. The observations below are **qualitative**, based on inspection of the saved outputs; they are not measurements of precision, recall, or F1-score.
 
-### Hybrid2 — ranking from multiple extractors
+### Hybrid2 — score saturation and redundancy
 
-The plots compare candidate terms produced by TopicRank and YAKE, and by RAKE and the fused Hybrid2 method.
+The fusion of TopicRank, YAKE, and RAKE yielded rankings that were not consistently discriminative. In particular, one unnormalized output assigned the same score (**9**) to many entries, limiting its usefulness for ordering terms. The normalized results still contained multiple closely related or redundant keyphrases. This illustrates the difficulty of combining heterogeneous scoring schemes: normalization and score fusion alone do not guarantee diverse, meaningful domain terms.
 
-![Hybrid2: RAKE and fused ranking](results/hybrid2/nouveau%20corpus/resultats_H2%28RAKE_et_H2%29.png)
+[View original Hybrid2 results](results/hybrid2/) · [Open Hybrid2 notebook](notebooks/hybrid2.ipynb)
 
-[Explore Hybrid2 results](results/hybrid2/) · [Open the notebook](notebooks/hybrid2.ipynb)
+### SIFRank — more interpretable candidates in the inspected outputs
 
-### SIFRank — embedding-based keyphrase rankings
+Among the saved examples, SIFRank produced some of the more interpretable domain-related expressions. The results include **ELMo visualizations** and structured CSV rankings for **BERT and SBERT**, with both **SIFRank** and **SIFRank+** variants. The figure below is an original output, retained as generated during the experiments; it is an illustration of extracted terms rather than an accuracy chart.
 
-The SIFRank results include plots generated with **ELMo**, as well as CSV exports for **BERT** and **SBERT** experiments covering SIFRank and SIFRank+ variants.
+![Original SIFRank ELMo keyphrase ranking](results/sifrank/nouveau%20corpus/resultats_ELMo%28per_doc%29.png)
 
-![SIFRank: example ELMo keyphrase ranking](results/sifrank/nouveau%20corpus/resultats_ELMo%28per_doc%29.png)
+[View all SIFRank results and CSVs](results/sifrank/) · [Open SIFRank notebook](notebooks/sifrank.ipynb)
 
-[Explore SIFRank results](results/sifrank/) · [Open the notebook](notebooks/sifrank.ipynb)
+### SPLADE — generic terms in the rankings
 
-### SPLADE — alternative corpus-level scoring strategies
+SPLADE-v3 produced rankings containing both domain-related vocabulary and relatively generic words. The outputs suggest that sparse weights learned for **information retrieval** do not directly constitute an indispensability score: additional candidate filtering or task-specific ranking criteria may be required to prioritize concepts that help readers understand a specialized domain. This is a limitation of the adaptation explored here, **not a general evaluation of SPLADE as a retrieval model**.
 
-The figures show rankings for **combined score**, **document frequency**, and an **ERU-KG-inspired** strategy.
+[View original SPLADE results](results/splade/) · [Open SPLADE notebook](notebooks/splade.ipynb)
 
-![SPLADE: combined-score ranking](results/splade/nouveau%20corpus/resultats_SPLADE%28combined_score%29.png)
+### Discussion and limitations of the comparison
 
-[Explore SPLADE results](results/splade/) · [Open the notebook](notebooks/splade.ipynb)
+These exploratory findings are consistent with a central argument of our [literature review](docs/article.pdf): frequency and score fusion, semantic similarity, and learned lexical weights each capture only part of what might make a term essential to understanding a domain. **No single ranking signal should be equated with term indispensability.** The experiments also highlight the importance of corpus choice, candidate quality, and interpretable scoring.
 
-**Interpretation:** these examples demonstrate what different ranking pipelines output for specialized text collections. Without independently annotated reference keyphrases and a shared evaluation protocol, the repository does not establish which method performs best.
+Because the project did not establish an expert-annotated ground truth and a common evaluation protocol for all three methods, **we cannot conclude that SIFRank is quantitatively superior to Hybrid2 or SPLADE**. The original outputs are retained for transparency and further inspection, including less successful configurations.
 
 ## Research documentation
 
